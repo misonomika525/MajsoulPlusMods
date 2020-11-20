@@ -1,0 +1,21 @@
+{
+	"id": "tablecloth_zxhh",
+	"version": "1.0.0",
+	"name": "桌布-仲夏花火",
+	"author": "AnriMachishiro",
+	"description": "官方隐藏桌布",
+	"preview": "assets/preview.jpg",
+	"resourcepack": [{
+		"from": "scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg",
+		"to": "Table_Dif.jpg",
+		"all-servers": true
+	}, {
+		"from": "myres2/tablecloth/tablecloth_default/preview.jpg",
+		"to": "preview.jpg",
+		"all-servers": true
+	}, {
+		"from": "extendRes/items/tablecloth_navy.jpg",
+		"to": "preview.jpg",
+		"all-servers": true
+	}]
+}

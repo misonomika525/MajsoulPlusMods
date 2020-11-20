@@ -1,0 +1,129 @@
+{
+  "id": "FriendsRoom_AllOpen",
+  "version": "1.0.1",
+  "name": "友人房完全可自定义",
+  "author": "88826",
+  "description": "你在教我做事？\n（修改部分选项可能导致无法创建房间）",
+  "dir": "assets",
+  "preview": "preview.png",
+  "entry": "script.js",
+  "applyServer": [0],
+  "resourcepack": [{
+	"from": "myres/room/qieshangmanguan.png",
+	"to": "qieshangmanguan.png"
+  },{
+	"from": "myres/room/begin_open_mode.png",
+	"to": "begin_open_mode.png"
+  },{
+	"from": "myres/room/benchang.png",
+	"to": "benchang.png"
+  },{
+	"from": "myres/room/biao_dora.png",
+	"to": "biao_dora.png"
+  },{
+	"from": "myres/room/dora3_mode.png",
+	"to": "dora3_mode.png"
+  },{
+	"from": "myres/room/fafu_1.png",
+	"to": "fafu_1.png"
+  },{
+	"from": "myres/room/fafu_2.png",
+	"to": "fafu_2.png"
+  },{
+	"from": "myres/room/fafu_3.png",
+	"to": "fafu_3.png"
+  },{
+	"from": "myres/room/gang_biaodora.png",
+	"to": "gang_biaodora.png"
+  },{
+	"from": "myres/room/gang_lidora.png",
+	"to": "gang_lidora.png"
+  },{
+	"from": "myres/room/helelianzhuang.png",
+	"to": "helelianzhuang.png"
+  },{
+	"from": "myres/room/helezhongju.png",
+	"to": "helezhongju.png"
+  },{
+	"from": "myres/room/jifei.png",
+	"to": "jifei.png"
+  },{
+	"from": "myres/room/jingsuanyuandian.png",
+	"to": "jingsuanyuandian.png"
+  },{
+	"from": "myres/room/jiuchao_mode.png",
+	"to": "jiuchao_mode.png"
+  },{
+	"from": "myres/room/jiuzhongjiupai.png",
+	"to": "jiuzhongjiupai.png"
+  },{
+	"from": "myres/room/li_dora.png",
+	"to": "li_dora.png"
+  },{
+	"from": "myres/room/liqi.png",
+	"to": "liqi.png"
+  },{
+	"from": "myres/room/liujumanguan.png",
+	"to": "liujumanguan.png"
+  },{
+	"from": "myres/room/madian_1.png",
+	"to": "madian_1.png"
+  },{
+	"from": "myres/room/madian_2.png",
+	"to": "madian_2.png"
+  },{
+	"from": "myres/room/madian_3.png",
+	"to": "madian_3.png"
+  },{
+	"from": "myres/room/madian_4.png",
+	"to": "madian_4.png"
+  },{
+	"from": "myres/room/ming_dora_open.png",
+	"to": "ming_dora_open.png"
+  },{
+	"from": "myres/room/mutil_yakuman.png",
+	"to": "mutil_yakuman.png"
+  },{
+	"from": "myres/room/muyu_mode.png",
+	"to": "muyu_mode.png"
+  },{
+	"from": "myres/room/nanruxiru.png",
+	"to": "nanruxiru.png"
+  },{
+	"from": "myres/room/qieshangmanguan.png",
+	"to": "qieshangmanguan.png"
+  },{
+	"from": "myres/room/sanjiahele.png",
+	"to": "sanjiahele.png"
+  },{
+	"from": "myres/room/sifenglianda.png",
+	"to": "sifenglianda.png"
+  },{
+	"from": "myres/room/sigangsanle.png",
+	"to": "sigangsanle.png"
+  },{
+	"from": "myres/room/sijializhi.png",
+	"to": "sijializhi.png"
+  },{
+	"from": "myres/room/tianbian.png",
+	"to": "tianbian.png"
+  },{
+	"from": "myres/room/tingpailianzhuang.png",
+	"to": "tingpailianzhuang.png"
+  },{
+	"from": "myres/room/tingpaizhongju.png",
+	"to": "tingpaizhongju.png"
+  },{
+	"from": "myres/room/toutiao.png",
+	"to": "toutiao.png"
+  },{
+	"from": "myres/room/yifa.png",
+	"to": "yifa.png"
+  },{
+	"from": "myres/room/pai_left.png",
+	"to": "pai_left.png"
+  },{
+	"from": "myres/room/test_paixing.png",
+	"to": "test_paixing.png"
+  }]
+}

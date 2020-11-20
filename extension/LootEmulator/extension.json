@@ -1,0 +1,9 @@
+{
+  "id": "LootEmulator",
+  "version": "1.0.0",
+  "name": "抽卡模拟器",
+  "author": "88826",
+  "description": "麻将不打了，书也不读了，走了。",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

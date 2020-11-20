@@ -1,0 +1,10 @@
+{
+  "id": "autohule",
+  "version": "2.0.0",
+  "name": "自动和了",
+  "author": "Ethan",
+  "description": "盖亚！！！！！！！！！！",
+  "preview": "preview.png",
+  "entry": "autohule.js",
+  "applyServer": [0]
+}

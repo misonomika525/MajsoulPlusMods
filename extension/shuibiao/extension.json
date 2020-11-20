@@ -1,0 +1,9 @@
+{
+  "id":"shuibiao",
+  "version":"1.1.1",
+  "name": "玩家信息查看扩展",
+  "author": "unknown",
+  "preview": "preview.png",
+  "description": "FBI OPEN THE DOOR！",
+  "entry": "script.js"
+}

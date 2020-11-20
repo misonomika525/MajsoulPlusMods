@@ -1,0 +1,9 @@
+{
+  "id": "paulzzh_plugin_zjdc",
+  "version": "2.1.0",
+  "name": "最近大铳",
+  "author": "Paulzzh",
+  "description": "点炮太多，我很抱歉。",
+  "entry": "paulzzh_plugin_zjdc.user.js",
+  "applyServer": [0, 1, 2, 3]
+}

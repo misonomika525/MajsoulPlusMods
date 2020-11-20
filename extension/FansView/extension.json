@@ -1,0 +1,9 @@
+{
+	"id": "FansView",
+	"version": "1.0.1",
+	"name": "番数显示",
+	"author": "88826",
+	"description": "17番你能秒我？你能秒杀我？！你今天能17番把白石奈奈给秒杀了，我当！场！就把这个牌桌给吃掉！",
+	"preview": "preview.png",
+	"entry": "script.js"
+}

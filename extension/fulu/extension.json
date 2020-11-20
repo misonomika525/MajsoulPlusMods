@@ -1,0 +1,9 @@
+{
+  "id":"fulu",
+  "version":"1.0.0",
+  "name": "副露占位提示",
+  "author": ["8q","AnriMachishiro"],
+  "preview": "preview.png",
+  "description": "你还记得你打出过多少张鸣牌吗？",
+  "entry": "fulu.js"
+}

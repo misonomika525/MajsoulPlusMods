@@ -1,0 +1,9 @@
+{
+  "id": "KeyboardControls",
+  "version": "1.0.0",
+  "name": "键盘操纵",
+  "author": ["NeverDecaf"],
+  "description": "现在各位一番人全体起立！\n太太要……纯键盘打麻将了……",
+  "preview": "preview.png",
+  "entry": ["KeyboardControls.js"]
+}

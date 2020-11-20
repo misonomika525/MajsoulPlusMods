@@ -1,0 +1,9 @@
+{
+  "id": "there_is_no_male",
+  "version":"1.1.2",
+  "name": "不要男妈妈",
+  "author": "Handle",
+  "description": "伞兵一号月见山准备就绪！\n不是我怎么被轰出去了啊……\n难受啊……马飞……",
+  "entry": "script.js",
+  "preview": "preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "unlock",
+  "version": "1.3.2",
+  "name": "本地解锁一切内容",
+  "author": ["guano"],
+  "description": "梦里什么都有。",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

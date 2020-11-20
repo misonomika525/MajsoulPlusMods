@@ -1,0 +1,20 @@
+{
+  "id": "CustomBGM",
+  "version": "5.0.0",
+  "name": "BGM Replace",
+  "author": "Tachibana",
+  "description": "BGM Replace",
+  "preview": "preview.jpg",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    "audio/music/game.mp3",
+    "audio/music/liqi_chuzhen.mp3",
+    "audio/music/liqi1.mp3",
+    "audio/music/liqi2.mp3",
+    "audio/music/lobby.mp3",
+    "audio/music/zhongxialvdong.mp3",
+    "audio/music/yichujifa.mp3"
+  ]
+}

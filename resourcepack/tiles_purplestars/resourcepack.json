@@ -1,0 +1,22 @@
+{
+  "id": "tiles_purplestars",
+  "version": "1.0.0",
+  "name": "牌背-紫色之星",
+  "author": "JK Anon",
+  "description": "你掉的是这个大猩猩呢，还是这个小猩猩？",
+  "preview": "preview.jpg",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    "scene/Assets/Resource/mjpai/mjp_default/hand_ui.png",
+    "scene/Assets/Resource/mjpai/mjp_default_0/hand_ui.png",
+    "scene/Assets/Resource/mjpai/mjp_default/mjp.png",
+    "scene/Assets/Resource/mjpai/mjp_default_0/mjp.png",
+    "scene/Assets/Resource/mjpai/mjp_default/mjp.png",
+    "res/atlas/myres2/mjp/mjp_default/ui.png",
+    "res/atlas/myres2/mjp/mjp_default_0/ui.png",
+    "myres2/mjp/mjp_default/preview.png",
+    "extendRes/items/mjp_orange.jpg"
+  ]
+}

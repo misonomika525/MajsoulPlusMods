@@ -1,0 +1,21 @@
+{
+  "id": "tiles_Revolution",
+  "version": "1.0.0",
+  "name": "牌背-浪花朵朵（国服/日服）",
+  "author": "Tachibana",
+  "description": "没有什么装扮是强行提取资源然后替换默认所无法解决的。",
+  "preview": "preview.jpg",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    "extendRes/items/mjp_orange.jpg",
+    "jp/extendRes/items/mjp_orange.jpg",
+    "jp/myres2/mjp/mjp_default/preview.png",
+    "myres2/mjp/mjp_default/preview.png",
+    "res/atlas/jp/myres2/mjp/mjp_default/ui.png",
+    "res/atlas/myres2/mjp/mjp_default/ui.png",
+    "scene/Assets/Resource/mjpai/mjp_default/hand_ui.png",
+    "scene/Assets/Resource/mjpai/mjp_default/mjp.png"
+  ]
+}

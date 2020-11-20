@@ -1,0 +1,22 @@
+{
+  "id": "loliass",
+  "version": "1.0.2",
+  "name": "你把你泳装给我交了",
+  "author": "hat",
+  "description": "这波啊，这波是把阳菜和轻库娘的泳装全扒了。\n至于爽哥……那么小没得看露个点算了。",
+  "preview": "preview.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace":[
+    "extendRes/charactor/wushilanyangcai_YZ/full.png",
+    "extendRes/charactor/wushilanyangcai_YZ/half.png",
+    "extendRes/charactor/wushilanyangcai_YZ/smallhead.png",
+    "extendRes/charactor/wushilanyangcai_YZ/waitingroom.png",
+    "extendRes/charactor/qianzhi_YZ/full.png",
+    "extendRes/charactor/qianzhi_YZ/waitingroom.png",
+    "extendRes/charactor/qingku_YZ/full.png",
+    "extendRes/charactor/qingku_YZ/half.png",
+    "extendRes/charactor/qingku_YZ/waitingroom.png"
+  ]
+}
