@@ -1,14 +1,14 @@
 {
   "id": "blackDesk",
   "version": "1.1.0",
-  "name": "透明黑点数版",
+  "name": "透明黑点数显示板",
   "author": "CuewarsTaner",
-  "description": "去他妈的默认点数版！",
+  "description": "本作由小魔绘制，并后被CuewarsTaner魔改。",
   "preview": "preview.jpg",
   "dependencies": {
     "majsoul_plus": "^2.0.0"
   },
-  "replace": [
+  "resourcepack": [
     "scene/Assets/Resource/table/tablemid/bg.png",
     "scene/Assets/Resource/table/tablemid/chang.png",
     "scene/Assets/Resource/table/tablemid/feng.png",
