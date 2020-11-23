@@ -1,9 +1,9 @@
 {
-  "id": "tiles_kaede",
+  "id": "tiles_ichigo",
   "version": "1.0.0",
-  "name": "牌背-枫叶",
+  "name": "牌背-草莓",
   "author": "Anonymoose",
-  "description": "我枫了。",
+  "description": "又到了草（动词）莓的季节。",
   "preview": "preview.jpg",
   "dependencies": {
     "majsoul_plus": "^2.0.0"

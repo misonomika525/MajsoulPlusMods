@@ -1,9 +1,9 @@
 {
-  "id": "tiles_kaede",
+  "id": "tiles_suika",
   "version": "1.0.0",
-  "name": "牌背-枫叶",
+  "name": "牌背-西瓜",
   "author": "Anonymoose",
-  "description": "我枫了。",
+  "description": "爽哥：我怀疑这个装扮在内涵我但是我莫得证据。",
   "preview": "preview.jpg",
   "dependencies": {
     "majsoul_plus": "^2.0.0"

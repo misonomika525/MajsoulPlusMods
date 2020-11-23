@@ -1,0 +1,9 @@
+{
+  "id": "hideemotes",
+  "version": "1.0.0",
+  "name": "全局表情禁用",
+  "author": "anon",
+  "description": "不许绝好调。",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

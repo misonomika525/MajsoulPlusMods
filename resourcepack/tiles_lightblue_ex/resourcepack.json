@@ -1,9 +1,9 @@
 {
-  "id": "tiles_kaede",
-  "version": "1.0.0",
-  "name": "牌背-枫叶",
+  "id": "tiles_lightblue_ex",
+  "version": "1.0.1",
+  "name": "牌背-亮蓝",
   "author": "Anonymoose",
-  "description": "我枫了。",
+  "description": "蓝——蓝——路——（被拖走）",
   "preview": "preview.jpg",
   "dependencies": {
     "majsoul_plus": "^2.0.0"
