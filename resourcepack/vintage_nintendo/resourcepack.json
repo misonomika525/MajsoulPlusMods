@@ -10,9 +10,9 @@
     "majsoul_plus": "^2.0.0"
   },
   "replace": ["scene/Assets/Resource/mjpai/en/mjp_default_0/hand_ui.png",
-  "res/atlas/en/myres2/mjp/mjp_default_0/ui.png",
-  "scene/Assets/Resource/mjpai/en/mjp_default_0/mjp.png",
-  "scene/Assets/Resource/mjpai/en/mjp_default/hand_ui.png",
-  "res/atlas/en/myres2/mjp/mjp_default/ui.png",
-  "scene/Assets/Resource/mjpai/en/mjp_default/mjp.png"]
+  "res/atlas/myres2/mjp/mjp_default_0/ui.png",
+  "scene/Assets/Resource/mjpai/mjp_default_0/mjp.png",
+  "scene/Assets/Resource/mjpai/mjp_default/hand_ui.png",
+  "res/atlas/myres2/mjp/mjp_default/ui.png",
+  "scene/Assets/Resource/mjpai/mjp_default/mjp.png"]
 }
