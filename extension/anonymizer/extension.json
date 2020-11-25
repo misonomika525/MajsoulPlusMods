@@ -1,0 +1,9 @@
+{
+  "id": "anonymizer",  
+  "version": "1.1.1",    
+  "name": "按Ctrl隐藏昵称",     
+  "author": "anon",      
+  "description": "猜猜我是谁？", 
+  "preview": "preview.png",   
+  "entry": "script.js"        
+}
