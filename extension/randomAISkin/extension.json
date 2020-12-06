@@ -1,0 +1,13 @@
+{
+	"id": "randomAISkin",
+	"version": "1.2.4",
+	"name": "电脑随机皮肤",
+	"author": ["bin"],
+	"description": "/ai （YGOPro玩家并感）",
+	"preview": "preview.png",
+	"dependencies": {
+		"majsoul_plus": "^2.0.0"
+	},
+	"resourcepack": [],
+	"entry": "script.js"
+}

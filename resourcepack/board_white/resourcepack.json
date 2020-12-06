@@ -1,15 +1,16 @@
 {
-  "id": "blackDesk",
-  "version": "1.1.0",
-  "name": "透明黑点数版",
-  "author": "CuewarsTaner",
-  "description": "我觉得我做不出役满是点数版的问题。",
-  "preview": "preview.jpg",
+  "id": "board_white",
+  "version": "1.0.0",
+  "name": "改點數顯示版（透明白）",
+  "author": "元始天尊,AnriMachishiro（1.X转2.X）",
+  "description": "將點數顯示版替換為透明白，\n本套點數顯示版由小魔繪製。",
+
   "dependencies": {
     "majsoul_plus": "^2.0.0"
   },
-  "resourcepack": [
+  "replace": [
     "scene/Assets/Resource/table/tablemid/bg.png",
+    "scene/Assets/Resource/table/tablemid/box_color.png",
     "scene/Assets/Resource/table/tablemid/chang.png",
     "scene/Assets/Resource/table/tablemid/feng.png",
     "scene/Assets/Resource/table/tablemid/ju.png",
