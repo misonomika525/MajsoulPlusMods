@@ -1,0 +1,31 @@
+{
+  "id": "headframe_MoeCup",
+  "version": "1.0.0",
+  "name": "头像框-试炼霸者（国服/日服）",
+  "author": "Tachibana",
+  "description": "没有什么装扮是强行提取资源然后替换默认所无法解决的。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+      "from": "extendRes/head_frame/default.png",
+      "to": "default.png"
+    },
+    {
+      "from": "jp/extendRes/head_frame/default.png",
+      "to": "default.png"
+    },
+    {
+      "from": "extendRes/items/headframe_default.jpg",
+      "to": "headframe_default.jpg"
+    },
+    {
+      "from": "jp/extendRes/items/headframe_default.jpg",
+      "to": "headframe_default.jpg"
+    }
+  ]
+}
+
