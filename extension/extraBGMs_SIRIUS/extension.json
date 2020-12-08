@@ -1,9 +1,9 @@
 {
   "id": "extraBGMs_SIRIUS",
-  "version": "1.0.0",
-  "name": "IIDX 17 SIRIUS",
+  "version": "1.0.1",
+  "name": "IIDX 17 SIRIUS & 14 GOLD",
   "author": "Tachibana",
-  "description": "beatmania IIDX 17 SIRIUS BGM（因为素材不够用拿14和16的BGM来凑了点数）",
+  "description": "beatmania IIDX 17 SIRIUS & beatmania IIDX 14 GOLD BGM",
   "dir": "assets",
   "preview": "preview.jpg",
   "resourcepack": [
