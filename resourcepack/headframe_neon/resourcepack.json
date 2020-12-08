@@ -1,0 +1,23 @@
+{
+  "id": "headframe_neon",
+  "version": "1.0.0",
+  "name": "头像框——霓虹",
+  "author": "大黄喵",
+  "description": "将默认头像框改为Steam霓虹头像框。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+      "from": "extendRes/head_frame/default.png",
+      "to": "default.png"
+    },
+    {
+      "from": "extendRes/items/headframe_default.jpg",
+      "to": "headframe_default.jpg"
+    }
+  ]
+}
+

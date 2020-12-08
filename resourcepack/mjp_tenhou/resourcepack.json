@@ -1,0 +1,40 @@
+{
+  "id": "mjp_tenhou",
+  "version": "1.2.0",
+  "name": "天凤字体+音效",
+  "author": "大黄喵",
+  "description": "将默认牌及对局中部分音效替换为天凤版。音效/糸色貓",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+      "from": "res/atlas/myres2/mjp/mjp_default/ui.png",
+      "to": "ui.png"
+    },
+    {
+      "from": "myres2/mjp/mjp_default/preview.png",
+      "to": "preview.png"
+    },
+	{
+      "from": "scene/Assets/Resource/mjpai/mjp_default/mjp.png",
+      "to": "mjp.png"
+    },
+	{
+      "from": "scene/Assets/Resource/mjpai/mjp_default/hand_ui.png",
+      "to": "hand_ui.png"
+    },
+	"audio/audio_mj/btn_appear.mp3",
+	"audio/audio_mj/click_pai.mp3",
+	"audio/audio_mj/countdown5.mp3",
+	"audio/audio_mj/discard_tile.mp3",
+	"audio/audio_mj/fu_appear.mp3",
+	"audio/audio_mj/hule_fan_out.mp3",
+	"audio/audio_mj/new_dora.mp3",
+	"audio/audio_mj/showtile.mp3",
+	"audio/audio_mj/yakuman.mp3"
+  ]
+}
+
