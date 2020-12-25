@@ -1,0 +1,9 @@
+{
+  "id": "downloadlogs",
+  "version": "1.0.2",
+  "name": "按S下载牌谱",
+  "author": "凉宫杏树",
+  "description": "太好了，准备把牌谱拿给主人看。",
+  "preview": "6.png",
+  "entry": "script.js"
+}
