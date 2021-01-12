@@ -1,0 +1,9 @@
+{
+  "id": "fullscreen",
+  "version": "1.0.0",
+  "name": "全屏按钮",
+  "author": "DeQxJ00",
+  "description": "里宝牌来一个好吗？秋梨膏！",
+  "preview": "10.png",
+  "entry": "script.js"
+}
