@@ -1,0 +1,9 @@
+{
+  "id": "uncle",
+  "version": "1.0.0",
+  "name": "陌生人在注视着你",
+  "author": "anon",
+  "description": "使用日志查看器向不知情的匿名用户发送消息和好友申请。",
+  "preview": "1.png",
+  "entry": ["uncle.js"]
+}
