@@ -1,8 +1,8 @@
 {
   "id": "autohule",
-  "version": "1.9.0",
-  "name": "自动和了+鸣牌关闭",
-  "author": ["一坨开发者","Tachibana"],
+  "version": "2.0.0",
+  "name": "挂机人",
+  "author": ["一坨开发者"],
   "description": "副露怪.exe 已停止运行。",
   "preview": "preview.png",
   "entry": "autohule.js",

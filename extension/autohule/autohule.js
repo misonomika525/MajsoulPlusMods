@@ -2,7 +2,7 @@
     const inject = function() {
         if (uiscript.UI_PlayerInfo.Inst && uiscript.UI_OtherPlayerInfo.Inst && uiscript.UI_PlayerInfo.Inst.show && uiscript.UI_OtherPlayerInfo.Inst.show && uiscript.UI_PlayerInfo.Inst.detail_data.blocks[0].show && uiscript.UI_OtherPlayerInfo.Inst.detail_data.blocks[0].show && view.ActionHule.play) {
             console.log("Majsoul Helper injected.");
-            uiscript.UI_InfoLite.Inst.show("脚本已开启");
+            uiscript.UI_InfoLite.Inst.show("在此敬告您\n您已经开启了挂机脚本\n请确定您是否需要本脚本\n如果不需要请在雀魂P内关闭");
             for (const key in view.DesktopMgr.Inst.actionMap) {
                 const action = view.DesktopMgr.Inst.actionMap[key];
                 const m = action.method;
@@ -20,7 +20,7 @@
         if (action.hasOwnProperty("md5")) {
             setTimeout(() => {
                 view.DesktopMgr.Inst.setAutoHule(true);
-				view.DesktopMgr.Inst.setAutoMoQie(false);
+				view.DesktopMgr.Inst.setAutoMoQie(true);
 				view.DesktopMgr.Inst.setAutoNoFulu(true);
                 uiscript.UIMgr.Inst._ui_desktop.refreshFuncBtnShow(uiscript.UIMgr.Inst._ui_desktop._container_fun.getChildByName("btn_autohu"), 1);
             }, 2000)
