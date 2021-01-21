@@ -1,0 +1,69 @@
+{
+  "id": "RetinalCanvas",
+  "version": "1.2.0",
+  "name": "视网膜画布",
+  "author": "88826",
+  "description": "全画幅是好文明。",
+  "preview": "preview.png",
+  "entry": "script.js",
+  "dependencies": {},
+  "dir": "assets",
+  "resourcepack": [{
+	"from": "myres/mjdesktop/bg_jiesuan.png",
+	"to": "bg_jiesuan.png"
+  },{
+	"from": "chs_t/myres/mjdesktop/bg_jiesuan.png",
+	"to": "bg_jiesuan.png"
+  },{
+	"from": "jp/myres/mjdesktop/bg_jiesuan.png",
+	"to": "bg_jiesuan.png"
+  },{
+	"from": "en/myres/mjdesktop/bg_jiesuan.png",
+	"to": "bg_jiesuan.png"
+  },{
+	"from": "res/atlas/tanfang.png",
+	"to": "tanfang.png"
+  },{
+	"from": "res/atlas/chs_t/tanfang.png",
+	"to": "tanfang.png"
+  },{
+	"from": "res/atlas/jp/tanfang.png",
+	"to": "tanfang.png"
+  },{
+	"from": "res/atlas/tanfang.atlas",
+	"to": "tanfang.atlas"
+  },{
+	"from": "res/atlas/chs_t/tanfang.atlas",
+	"to": "tanfang_chs_t.atlas"
+  },{
+	"from": "res/atlas/jp/tanfang.atlas",
+	"to": "tanfang_jp.atlas"
+  },{
+	"from": "res/atlas/en/tanfang.atlas",
+	"to": "tanfang_en.atlas"
+  },{
+	"from": "tanfang/left_tree.png",
+	"to": "left_tree.png"
+  },{
+	"from": "chs_t/tanfang/left_tree.png",
+	"to": "left_tree.png"
+  },{
+	"from": "jp/tanfang/left_tree.png",
+	"to": "left_tree.png"
+  },{
+	"from": "en/tanfang/left_tree.png",
+	"to": "left_tree.png"
+  },{
+	"from": "tanfang/right_tree.png",
+	"to": "right_tree.png"
+  },{
+	"from": "chs_t/tanfang/right_tree.png",
+	"to": "right_tree.png"
+  },{
+	"from": "jp/tanfang/right_tree.png",
+	"to": "right_tree.png"
+  },{
+	"from": "en/tanfang/right_tree.png",
+	"to": "right_tree.png"
+  }]
+}

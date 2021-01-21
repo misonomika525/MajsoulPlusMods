@@ -1,0 +1,9 @@
+{
+  "id": "deselect2select",
+  "version": "1.0.0",
+  "name": "奉纳反选",
+  "author": "anon",
+  "description": "破烂通通给老娘爬！（未选中任何礼物时点击「全部清除」，将选中紫礼物以外全部礼物）",
+  "preview": "preview.png",
+  "entry": "script.js"
+}
