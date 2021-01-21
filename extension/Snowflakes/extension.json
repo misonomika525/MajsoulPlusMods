@@ -1,0 +1,18 @@
+{
+	"id": "Snowflakes",
+	"version": "2.0.0",
+	"name":"鼠标点击特效修改为雪花",
+	"author":"ISleeper",
+	"description":"修改鼠标点击特效，由樱花变为雪花.",
+	"preview":"preview.png",
+	"dependencies": {
+    
+  },
+	"resourcepack": [
+	{
+	"from":"scene/effect_click_default.lh",
+    "to":"effect/effect_click_xuehua.lh",
+	"all-servers":true
+	}
+  ]
+}

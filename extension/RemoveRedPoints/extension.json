@@ -1,0 +1,34 @@
+{
+  "id": "RemoveRedPoints",
+  "version": "1.0.0",
+  "name": "去除所有红点",
+  "author": "88826",
+  "description": "你头上的红点真好看。",
+  "preview": "preview.png",
+  "entry": "script.js",
+  "resourcepack": [{
+	"from": "myres/sushe/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "myres/lobby/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "chs_t/myres/sushe/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "chs_t/myres/lobby/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "en/myres/sushe/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "en/myres/lobby/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "jp/myres/sushe/redpoint.png",
+	"to": "redpoint.png"
+  },{
+	"from": "jp/myres/lobby/redpoint.png",
+	"to": "redpoint.png"
+  }]
+}

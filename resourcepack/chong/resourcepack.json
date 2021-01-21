@@ -1,0 +1,16 @@
+{
+  "id": "chong",
+  "version": "1.1.0",
+  "name": "立直按钮改放铳，放弃按钮改防",
+  "author": "芈澐",
+  "description": "想啥呢？立直啊！铳呀！后期加入放弃按钮改防",
+  "preview": "preview.jpg",
+
+  "replace": [
+    {
+      "from": "res/atlas/myres/mjdesktop2.png",
+      "to": "mjdesktop2.png",
+      "all-servers": true
+    }
+  ]
+}

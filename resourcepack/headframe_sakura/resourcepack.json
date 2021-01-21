@@ -1,0 +1,23 @@
+{
+  "id": "headframe_sakura",
+  "version": "1.0.0",
+  "name": "头像框-樱花之恋",
+  "author": "熊小萌",
+  "description": "将默认头像框改为樱花之恋头像框，快来和心仪的ta来一场甜甜的恋爱吧！",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+      "from": "extendRes/head_frame/default.png",
+      "to": "default.png"
+    },
+    {
+      "from": "extendRes/items/headframe_default.jpg",
+      "to": "headframe_default.jpg"
+    }
+  ]
+}
+

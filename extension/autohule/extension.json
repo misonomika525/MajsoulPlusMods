@@ -1,10 +1,10 @@
 {
   "id": "autohule",
-  "version": "2.0.0",
-  "name": "自动和了",
-  "author": "Ethan",
-  "description": "盖亚！！！！！！！！！！",
-  "preview": "preview.png",
+  "version": "1.9.0",
+  "name": "自动和了+鸣牌关闭",
+  "author": ["一坨开发者","Tachibana"],
+  "description": "副露怪.exe 已停止运行。",
+  "preview": "preview.jpg",
   "entry": "autohule.js",
   "applyServer": [0]
 }
