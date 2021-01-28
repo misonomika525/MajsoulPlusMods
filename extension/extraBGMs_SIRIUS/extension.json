@@ -1,9 +1,9 @@
 {
   "id": "extraBGMs_SIRIUS",
-  "version": "1.0.1",
-  "name": "IIDX 17 SIRIUS & 14 GOLD",
+  "version": "1.1.0",
+  "name": "IIDX 17 SIRIUS",
   "author": "Tachibana",
-  "description": "beatmania IIDX 17 SIRIUS & beatmania IIDX 14 GOLD BGM",
+  "description": "beatmania IIDX 17 SIRIUS BGM",
   "dir": "assets",
   "preview": "preview.jpg",
   "resourcepack": [
@@ -16,6 +16,7 @@
 	"audio/audio_mj/rank_change.mp3",
 	"audio/audio_mj/score_change.mp3",
     "audio/audio_mj/winlose.mp3",
+    "audio/music/intermission.mp3",
     "audio/music/lobby.mp3",
     "audio/my_music/0.mp3",
     "audio/my_music/1.mp3",

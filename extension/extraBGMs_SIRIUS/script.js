@@ -1,4 +1,4 @@
-// 增强型BGM，作者 rin93 改造 青龙圣者 ,bin
+// 增强型BGM。作者：rin93。改造：青龙圣者，bin。补充修改：Tachibana。
 if (!!view && !!uiscript) {
   const musicDir = 'music/'
   //h1为终局精算点正分,h2为Top,h3为精算点负分；r1为他家立直，r2为自家立直，r3为追立；连庄BGM不变,e1-e3未使用。
@@ -27,7 +27,16 @@ if (!!view && !!uiscript) {
 	
   // 不同 UI 注入不同音乐
   const lobbyMusic = musicDir + 'lobby.mp3'
-  const executeUIs = [['UI_Lobby', 'onEnable', 'lobby.mp3']]
+  const executeUIs = [
+	['UI_Lobby', 'onEnable', 'lobby.mp3'],
+	['UI_Shop', 'show', 'intermission.mp3'],
+	['UI_Bag', 'show', 'intermission.mp3'],
+	['UI_Friend', 'show', 'intermission.mp3'],
+    ['UI_Sushe', 'show_page_select', 'intermission.mp3'],
+    ['UI_Treasure', 'refresh_show', 'intermission.mp3'],
+    ['UI_Ob', 'show', 'intermission.mp3'],
+    ['UI_PaiPu', 'show', 'intermission.mp3']
+	]
   executeUIs.forEach(([scriptKey, funName, fileName]) => {
     uiscript[scriptKey].prototype[funName] = (() => {
       const functionBackup = uiscript[scriptKey].prototype[funName]
