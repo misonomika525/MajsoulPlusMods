@@ -27,7 +27,7 @@ if (!!view && !!uiscript) {
 	
   // 不同 UI 注入不同音乐
   const lobbyMusic = musicDir + 'lobby.mp3'
-  const executeUIs = [['UI_Lobby', 'onEnable', 'lobby.mp3']]
+  const executeUIs = [['UI_Remind', 'onCreate', 'title.mp3'],['UI_Lobby', 'onEnable', 'lobby.mp3']]
   executeUIs.forEach(([scriptKey, funName, fileName]) => {
     uiscript[scriptKey].prototype[funName] = (() => {
       const functionBackup = uiscript[scriptKey].prototype[funName]
