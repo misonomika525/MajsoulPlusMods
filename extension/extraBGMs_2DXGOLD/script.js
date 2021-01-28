@@ -27,9 +27,11 @@ if (!!view && !!uiscript) {
   const executeUIs = [
     ['UI_Shop', 'show', 'shop.mp3'],
     ['UI_Recharge', 'refresh_info', 'shop.mp3'],
+	['UI_Bag', 'show', 'factory.mp3'],
+	['UI_Friend', 'show', 'factory.mp3'],
     ['UI_Lobby', 'onEnable', 'lobby.mp3'],
     ['UI_Sushe', 'show_page_select', 'dorm.mp3'],
-    ['UI_Treasure', 'refresh_show', 'factory.mp3'],
+    ['UI_Treasure', 'refresh_show', 'dorm.mp3'],
     ['UI_Ob', 'show', 'intermission.mp3'],
     ['UI_PaiPu', 'show', 'intermission.mp3'],
     ['UI_Remind', 'onCreate', 'title.mp3'],
