@@ -1,6 +1,6 @@
 {
   "id": "extraBGMs_tricoro",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "name": "IIDX 20 tricoro",
   "author": ["Tachibana","大黄喵"],
   "description": "beatmania IIDX 20 tricoro BGM＋天凤音效",
@@ -9,6 +9,7 @@
   "resourcepack": [
     "audio/audio_lobby/matchcomplete.mp3",
 	"audio/audio_mj/btn_appear.mp3",
+	"audio/audio_mj/cutin.mp3",
 	"audio/audio_mj/click_pai.mp3",
 	"audio/audio_mj/countdown5.mp3",
 	"audio/audio_mj/discard_tile.mp3",
