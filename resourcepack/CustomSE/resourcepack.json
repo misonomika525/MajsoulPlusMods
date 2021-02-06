@@ -1,0 +1,22 @@
+{
+  "id": "CustomSE",
+  "version": "5.0.0",
+  "name": "SE Replace",
+  "author": "Tachibana",
+  "description": "SE Replace",
+  "preview": "preview.jpg",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+	"audio/audio_mj/cutin.mp3",
+	"audio/audio_mj/fu_appear.mp3",
+	"audio/audio_mj/hule_fan_out.mp3",
+	"audio/audio_mj/new_dora.mp3",
+	"audio/audio_mj/rank1.mp3",
+	"audio/audio_mj/rank234.mp3",
+	"audio/audio_mj/rank_change.mp3",
+	"audio/audio_mj/score_appear.mp3",
+	"audio/audio_mj/score_change.mp3"
+  ]
+}
