@@ -1,0 +1,2047 @@
+{
+  "id": "mingzhiyingshu",
+  "version": "1.0.0",
+  "name": "其他男人全改部长",
+  "author": ["SonodaHanami","Tachibana"],
+  "description": "从现在开始这里就叫做明智英树广场！（对部分男人可能会出现显示扭曲问题）",
+  "preview": "12.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+      "from": [
+        "extendRes/charactor/aiyin/bighead.png",
+        "extendRes/charactor/ruyuelian/bighead.png",
+        "extendRes/charactor/qixi/bighead.png",
+        "extendRes/charactor/shiyuanduihai/bighead.png",
+        "extendRes/charactor/sigongxiasheng/bighead.png",
+        "extendRes/charactor/wangcilang/bighead.png",
+        "extendRes/charactor/yizhilaikong/bighead.png",
+        "extendRes/charactor/yuejianshan/bighead.png",
+        "extendRes/charactor/yuesefu/bighead.png",
+        "extendRes/charactor/zhaitengzhi/bighead.png"
+		],
+      "to": "extendRes/charactor/mingzhiyingshu/bighead.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin/full.png",
+        "extendRes/charactor/ruyuelian/full.png",
+        "extendRes/charactor/qixi/full.png",
+        "extendRes/charactor/shiyuanduihai/full.png",
+        "extendRes/charactor/sigongxiasheng/full.png",
+        "extendRes/charactor/wangcilang/full.png",
+        "extendRes/charactor/yizhilaikong/full.png",
+        "extendRes/charactor/yuejianshan/full.png",
+        "extendRes/charactor/yuesefu/full.png",
+        "extendRes/charactor/zhaitengzhi/full.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu/full.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin/half.png",
+        "extendRes/charactor/ruyuelian/half.png",
+        "extendRes/charactor/qixi/half.png",
+        "extendRes/charactor/shiyuanduihai/half.png",
+        "extendRes/charactor/sigongxiasheng/half.png",
+        "extendRes/charactor/wangcilang/half.png",
+        "extendRes/charactor/yizhilaikong/half.png",
+        "extendRes/charactor/yuejianshan/half.png",
+        "extendRes/charactor/yuesefu/half.png",
+        "extendRes/charactor/zhaitengzhi/half.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu/half.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin/smallhead.png",
+        "extendRes/charactor/ruyuelian/smallhead.png",
+        "extendRes/charactor/qixi/smallhead.png",
+        "extendRes/charactor/shiyuanduihai/smallhead.png",
+        "extendRes/charactor/sigongxiasheng/smallhead.png",
+        "extendRes/charactor/wangcilang/smallhead.png",
+        "extendRes/charactor/yizhilaikong/smallhead.png",
+        "extendRes/charactor/yuejianshan/smallhead.png",
+        "extendRes/charactor/yuesefu/smallhead.png",
+        "extendRes/charactor/zhaitengzhi/smallhead.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu/smallhead.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin/waitingroom.png",
+        "extendRes/charactor/ruyuelian/waitingroom.png",
+        "extendRes/charactor/qixi/waitingroom.png",
+        "extendRes/charactor/shiyuanduihai/waitingroom.png",
+        "extendRes/charactor/sigongxiasheng/waitingroom.png",
+        "extendRes/charactor/wangcilang/waitingroom.png",
+        "extendRes/charactor/yizhilaikong/waitingroom.png",
+        "extendRes/charactor/yuejianshan/waitingroom.png",
+        "extendRes/charactor/yuesefu/waitingroom.png",
+        "extendRes/charactor/zhaitengzhi/waitingroom.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu/waitingroom.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin_0/bighead.png",
+        "extendRes/charactor/ruyuelian_0/bighead.png",
+        "extendRes/charactor/qixi_0/bighead.png",
+        "extendRes/charactor/shiyuanduihai_0/bighead.png",
+        "extendRes/charactor/sigongxiasheng_0/bighead.png",
+        "extendRes/charactor/wangcilang_0/bighead.png",
+        "extendRes/charactor/yizhilaikong_0/bighead.png",
+        "extendRes/charactor/yuejianshan_0/bighead.png",
+        "extendRes/charactor/yuesefu_0/bighead.png",
+        "extendRes/charactor/zhaitengzhi_0/bighead.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_0/bighead.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin_0/full.png",
+        "extendRes/charactor/ruyuelian_0/full.png",
+        "extendRes/charactor/qixi_0/full.png",
+        "extendRes/charactor/shiyuanduihai_0/full.png",
+        "extendRes/charactor/sigongxiasheng_0/full.png",
+        "extendRes/charactor/wangcilang_0/full.png",
+        "extendRes/charactor/yizhilaikong_0/full.png",
+        "extendRes/charactor/yuejianshan_0/full.png",
+        "extendRes/charactor/yuesefu_0/full.png",
+        "extendRes/charactor/zhaitengzhi_0/full.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_0/full.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin_0/half.png",
+        "extendRes/charactor/ruyuelian_0/half.png",
+        "extendRes/charactor/qixi_0/half.png",
+        "extendRes/charactor/shiyuanduihai_0/half.png",
+        "extendRes/charactor/sigongxiasheng_0/half.png",
+        "extendRes/charactor/wangcilang_0/half.png",
+        "extendRes/charactor/yizhilaikong_0/half.png",
+        "extendRes/charactor/yuejianshan_0/half.png",
+        "extendRes/charactor/yuesefu_0/half.png",
+        "extendRes/charactor/zhaitengzhi_0/half.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_0/half.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin_0/smallhead.png",
+        "extendRes/charactor/ruyuelian_0/smallhead.png",
+        "extendRes/charactor/qixi_0/smallhead.png",
+        "extendRes/charactor/shiyuanduihai_0/smallhead.png",
+        "extendRes/charactor/sigongxiasheng_0/smallhead.png",
+        "extendRes/charactor/wangcilang_0/smallhead.png",
+        "extendRes/charactor/yizhilaikong_0/smallhead.png",
+        "extendRes/charactor/yuejianshan_0/smallhead.png",
+        "extendRes/charactor/yuesefu_0/smallhead.png",
+        "extendRes/charactor/zhaitengzhi_0/smallhead.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_0/smallhead.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/aiyin_0/waitingroom.png",
+        "extendRes/charactor/ruyuelian_0/waitingroom.png",
+        "extendRes/charactor/qixi_0/waitingroom.png",
+        "extendRes/charactor/shiyuanduihai_0/waitingroom.png",
+        "extendRes/charactor/sigongxiasheng_0/waitingroom.png",
+        "extendRes/charactor/wangcilang_0/waitingroom.png",
+        "extendRes/charactor/yizhilaikong_0/waitingroom.png",
+        "extendRes/charactor/yuejianshan_0/waitingroom.png",
+        "extendRes/charactor/yuesefu_0/waitingroom.png",
+        "extendRes/charactor/zhaitengzhi_0/waitingroom.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_0/waitingroom.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/xiasheng_WSJ/bighead.png",
+        "extendRes/charactor/wangcilang_WSJ/bighead.png",
+        "extendRes/charactor/yizhilaikong_SDJ/bighead.png",
+        "extendRes/charactor/yuesefu_YD/bighead.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_WSJ/bighead.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/xiasheng_WSJ/full.png",
+        "extendRes/charactor/wangcilang_WSJ/full.png",
+        "extendRes/charactor/yizhilaikong_SDJ/full.png",
+        "extendRes/charactor/yuesefu_YD/full.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_WSJ/full.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/xiasheng_WSJ/half.png",
+        "extendRes/charactor/wangcilang_WSJ/half.png",
+        "extendRes/charactor/yizhilaikong_SDJ/half.png",
+        "extendRes/charactor/yuesefu_YD/half.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_WSJ/half.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/xiasheng_WSJ/smallhead.png",
+        "extendRes/charactor/wangcilang_WSJ/smallhead.png",
+        "extendRes/charactor/yizhilaikong_SDJ/smallhead.png",
+        "extendRes/charactor/yuesefu_YD/smallhead.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_WSJ/smallhead.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "extendRes/charactor/xiasheng_WSJ/waitingroom.png",
+        "extendRes/charactor/wangcilang_WSJ/waitingroom.png",
+        "extendRes/charactor/yizhilaikong_SDJ/waitingroom.png",
+        "extendRes/charactor/yuesefu_YD/waitingroom.png"
+      ],
+      "to": "extendRes/charactor/mingzhiyingshu_WSJ/waitingroom.png",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_babei.mp3",
+        "audio/sound/ruyuelian/act_babei.mp3",
+        "audio/sound/qixi/act_babei.mp3",
+        "audio/sound/shiyuanduihai/act_babei.mp3",
+        "audio/sound/sigongxiasheng/act_babei.mp3",
+        "audio/sound/wangcilang/act_babei.mp3",
+        "audio/sound/yizhilaikong/act_babei.mp3",
+        "audio/sound/yuejianshan/act_babei.mp3",
+        "audio/sound/yuesefu/act_babei.mp3",
+        "audio/sound/zhaitengzhi/act_babei.mp3"
+      ],
+      "to": "audio/act_babei.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_chi.mp3",
+        "audio/sound/ruyuelian/act_chi.mp3",
+        "audio/sound/qixi/act_chi.mp3",
+        "audio/sound/shiyuanduihai/act_chi.mp3",
+        "audio/sound/sigongxiasheng/act_chi.mp3",
+        "audio/sound/wangcilang/act_chi.mp3",
+        "audio/sound/yizhilaikong/act_chi.mp3",
+        "audio/sound/yuejianshan/act_chi.mp3",
+        "audio/sound/yuesefu/act_chi.mp3",
+        "audio/sound/zhaitengzhi/act_chi.mp3"
+      ],
+      "to": "audio/act_chi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_rich.mp3",
+        "audio/sound/ruyuelian/act_rich.mp3",
+        "audio/sound/qixi/act_rich.mp3",
+        "audio/sound/shiyuanduihai/act_rich.mp3",
+        "audio/sound/sigongxiasheng/act_rich.mp3",
+        "audio/sound/wangcilang/act_rich.mp3",
+        "audio/sound/yizhilaikong/act_rich.mp3",
+        "audio/sound/yuejianshan/act_rich.mp3",
+        "audio/sound/yuesefu/act_rich.mp3",
+        "audio/sound/zhaitengzhi/act_rich.mp3"
+      ],
+      "to": "audio/act_rich.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_kan.mp3",
+        "audio/sound/ruyuelian/act_kan.mp3",
+        "audio/sound/qixi/act_kan.mp3",
+        "audio/sound/shiyuanduihai/act_kan.mp3",
+        "audio/sound/sigongxiasheng/act_kan.mp3",
+        "audio/sound/wangcilang/act_kan.mp3",
+        "audio/sound/yizhilaikong/act_kan.mp3",
+        "audio/sound/yuejianshan/act_kan.mp3",
+        "audio/sound/yuesefu/act_kan.mp3",
+        "audio/sound/zhaitengzhi/act_kan.mp3"
+      ],
+      "to": "audio/act_kan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_pon.mp3",
+        "audio/sound/ruyuelian/act_pon.mp3",
+        "audio/sound/qixi/act_pon.mp3",
+        "audio/sound/shiyuanduihai/act_pon.mp3",
+        "audio/sound/sigongxiasheng/act_pon.mp3",
+        "audio/sound/wangcilang/act_pon.mp3",
+        "audio/sound/yizhilaikong/act_pon.mp3",
+        "audio/sound/yuejianshan/act_pon.mp3",
+        "audio/sound/yuesefu/act_pon.mp3",
+        "audio/sound/zhaitengzhi/act_pon.mp3"
+      ],
+      "to": "audio/act_pon.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_rich.mp3",
+        "audio/sound/ruyuelian/act_rich.mp3",
+        "audio/sound/qixi/act_rich.mp3",
+        "audio/sound/shiyuanduihai/act_rich.mp3",
+        "audio/sound/sigongxiasheng/act_rich.mp3",
+        "audio/sound/wangcilang/act_rich.mp3",
+        "audio/sound/yizhilaikong/act_rich.mp3",
+        "audio/sound/yuejianshan/act_rich.mp3",
+        "audio/sound/yuesefu/act_rich.mp3",
+        "audio/sound/zhaitengzhi/act_rich.mp3"
+      ],
+      "to": "audio/act_rich.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_ron.mp3",
+        "audio/sound/ruyuelian/act_ron.mp3",
+        "audio/sound/qixi/act_ron.mp3",
+        "audio/sound/shiyuanduihai/act_ron.mp3",
+        "audio/sound/sigongxiasheng/act_ron.mp3",
+        "audio/sound/wangcilang/act_ron.mp3",
+        "audio/sound/yizhilaikong/act_ron.mp3",
+        "audio/sound/yuejianshan/act_ron.mp3",
+        "audio/sound/yuesefu/act_ron.mp3",
+        "audio/sound/zhaitengzhi/act_ron.mp3"
+      ],
+      "to": "audio/act_ron.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/act_tumo.mp3",
+        "audio/sound/ruyuelian/act_tumo.mp3",
+        "audio/sound/qixi/act_tumo.mp3",
+        "audio/sound/shiyuanduihai/act_tumo.mp3",
+        "audio/sound/sigongxiasheng/act_tumo.mp3",
+        "audio/sound/wangcilang/act_tumo.mp3",
+        "audio/sound/yizhilaikong/act_tumo.mp3",
+        "audio/sound/yuejianshan/act_tumo.mp3",
+        "audio/sound/yuesefu/act_tumo.mp3",
+        "audio/sound/zhaitengzhi/act_tumo.mp3"
+      ],
+      "to": "audio/act_tumo.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_bai.mp3",
+        "audio/sound/ruyuelian/fan_bai.mp3",
+        "audio/sound/qixi/fan_bai.mp3",
+        "audio/sound/shiyuanduihai/fan_bai.mp3",
+        "audio/sound/sigongxiasheng/fan_bai.mp3",
+        "audio/sound/wangcilang/fan_bai.mp3",
+        "audio/sound/yizhilaikong/fan_bai.mp3",
+        "audio/sound/yuejianshan/fan_bai.mp3",
+        "audio/sound/yuesefu/fan_bai.mp3",
+        "audio/sound/zhaitengzhi/fan_bai.mp3"
+      ],
+      "to": "audio/fan_bai.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_bei.mp3",
+        "audio/sound/ruyuelian/fan_bei.mp3",
+        "audio/sound/qixi/fan_bei.mp3",
+        "audio/sound/shiyuanduihai/fan_bei.mp3",
+        "audio/sound/sigongxiasheng/fan_bei.mp3",
+        "audio/sound/wangcilang/fan_bei.mp3",
+        "audio/sound/yizhilaikong/fan_bei.mp3",
+        "audio/sound/yuejianshan/fan_bei.mp3",
+        "audio/sound/yuesefu/fan_bei.mp3",
+        "audio/sound/zhaitengzhi/fan_bei.mp3"
+      ],
+      "to": "audio/fan_bei.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/ruyuelian/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/qixi/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/shiyuanduihai/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/sigongxiasheng/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/wangcilang/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/yizhilaikong/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/yuejianshan/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/yuesefu/fan_chunquandaiyaojiu.mp3",
+        "audio/sound/zhaitengzhi/fan_chunquandaiyaojiu.mp3"
+      ],
+      "to": "audio/fan_chunquandaiyaojiu.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/ruyuelian/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/qixi/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/shiyuanduihai/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/sigongxiasheng/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/wangcilang/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/yizhilaikong/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/yuejianshan/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/yuesefu/fan_chunzhengjiulianbaodeng.mp3",
+        "audio/sound/zhaitengzhi/fan_chunzhengjiulianbaodeng.mp3"
+      ],
+      "to": "audio/fan_chunzhengjiulianbaodeng.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dasanyuan.mp3",
+        "audio/sound/ruyuelian/fan_dasanyuan.mp3",
+        "audio/sound/qixi/fan_dasanyuan.mp3",
+        "audio/sound/shiyuanduihai/fan_dasanyuan.mp3",
+        "audio/sound/sigongxiasheng/fan_dasanyuan.mp3",
+        "audio/sound/wangcilang/fan_dasanyuan.mp3",
+        "audio/sound/yizhilaikong/fan_dasanyuan.mp3",
+        "audio/sound/yuejianshan/fan_dasanyuan.mp3",
+        "audio/sound/yuesefu/fan_dasanyuan.mp3",
+        "audio/sound/zhaitengzhi/fan_dasanyuan.mp3"
+      ],
+      "to": "audio/fan_dasanyuan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dasixi.mp3",
+        "audio/sound/ruyuelian/fan_dasixi.mp3",
+        "audio/sound/qixi/fan_dasixi.mp3",
+        "audio/sound/shiyuanduihai/fan_dasixi.mp3",
+        "audio/sound/sigongxiasheng/fan_dasixi.mp3",
+        "audio/sound/wangcilang/fan_dasixi.mp3",
+        "audio/sound/yizhilaikong/fan_dasixi.mp3",
+        "audio/sound/yuejianshan/fan_dasixi.mp3",
+        "audio/sound/yuesefu/fan_dasixi.mp3",
+        "audio/sound/zhaitengzhi/fan_dasixi.mp3"
+      ],
+      "to": "audio/fan_dasixi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dihu.mp3",
+        "audio/sound/ruyuelian/fan_dihu.mp3",
+        "audio/sound/qixi/fan_dihu.mp3",
+        "audio/sound/shiyuanduihai/fan_dihu.mp3",
+        "audio/sound/sigongxiasheng/fan_dihu.mp3",
+        "audio/sound/wangcilang/fan_dihu.mp3",
+        "audio/sound/yizhilaikong/fan_dihu.mp3",
+        "audio/sound/yuejianshan/fan_dihu.mp3",
+        "audio/sound/yuesefu/fan_dihu.mp3",
+        "audio/sound/zhaitengzhi/fan_dihu.mp3"
+      ],
+      "to": "audio/fan_dihu.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dong.mp3",
+        "audio/sound/ruyuelian/fan_dong.mp3",
+        "audio/sound/qixi/fan_dong.mp3",
+        "audio/sound/shiyuanduihai/fan_dong.mp3",
+        "audio/sound/sigongxiasheng/fan_dong.mp3",
+        "audio/sound/wangcilang/fan_dong.mp3",
+        "audio/sound/yizhilaikong/fan_dong.mp3",
+        "audio/sound/yuejianshan/fan_dong.mp3",
+        "audio/sound/yuesefu/fan_dong.mp3",
+        "audio/sound/zhaitengzhi/fan_dong.mp3"
+      ],
+      "to": "audio/fan_dong.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora1.mp3",
+        "audio/sound/ruyuelian/fan_dora1.mp3",
+        "audio/sound/qixi/fan_dora1.mp3",
+        "audio/sound/shiyuanduihai/fan_dora1.mp3",
+        "audio/sound/sigongxiasheng/fan_dora1.mp3",
+        "audio/sound/wangcilang/fan_dora1.mp3",
+        "audio/sound/yizhilaikong/fan_dora1.mp3",
+        "audio/sound/yuejianshan/fan_dora1.mp3",
+        "audio/sound/yuesefu/fan_dora1.mp3",
+        "audio/sound/zhaitengzhi/fan_dora1.mp3"
+      ],
+      "to": "audio/fan_dora1.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora2.mp3",
+        "audio/sound/ruyuelian/fan_dora2.mp3",
+        "audio/sound/qixi/fan_dora2.mp3",
+        "audio/sound/shiyuanduihai/fan_dora2.mp3",
+        "audio/sound/sigongxiasheng/fan_dora2.mp3",
+        "audio/sound/wangcilang/fan_dora2.mp3",
+        "audio/sound/yizhilaikong/fan_dora2.mp3",
+        "audio/sound/yuejianshan/fan_dora2.mp3",
+        "audio/sound/yuesefu/fan_dora2.mp3",
+        "audio/sound/zhaitengzhi/fan_dora2.mp3"
+      ],
+      "to": "audio/fan_dora2.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora3.mp3",
+        "audio/sound/ruyuelian/fan_dora3.mp3",
+        "audio/sound/qixi/fan_dora3.mp3",
+        "audio/sound/shiyuanduihai/fan_dora3.mp3",
+        "audio/sound/sigongxiasheng/fan_dora3.mp3",
+        "audio/sound/wangcilang/fan_dora3.mp3",
+        "audio/sound/yizhilaikong/fan_dora3.mp3",
+        "audio/sound/yuejianshan/fan_dora3.mp3",
+        "audio/sound/yuesefu/fan_dora3.mp3",
+        "audio/sound/zhaitengzhi/fan_dora3.mp3"
+      ],
+      "to": "audio/fan_dora3.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora4.mp3",
+        "audio/sound/ruyuelian/fan_dora4.mp3",
+        "audio/sound/qixi/fan_dora4.mp3",
+        "audio/sound/shiyuanduihai/fan_dora4.mp3",
+        "audio/sound/sigongxiasheng/fan_dora4.mp3",
+        "audio/sound/wangcilang/fan_dora4.mp3",
+        "audio/sound/yizhilaikong/fan_dora4.mp3",
+        "audio/sound/yuejianshan/fan_dora4.mp3",
+        "audio/sound/yuesefu/fan_dora4.mp3",
+        "audio/sound/zhaitengzhi/fan_dora4.mp3"
+      ],
+      "to": "audio/fan_dora4.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora5.mp3",
+        "audio/sound/ruyuelian/fan_dora5.mp3",
+        "audio/sound/qixi/fan_dora5.mp3",
+        "audio/sound/shiyuanduihai/fan_dora5.mp3",
+        "audio/sound/sigongxiasheng/fan_dora5.mp3",
+        "audio/sound/wangcilang/fan_dora5.mp3",
+        "audio/sound/yizhilaikong/fan_dora5.mp3",
+        "audio/sound/yuejianshan/fan_dora5.mp3",
+        "audio/sound/yuesefu/fan_dora5.mp3",
+        "audio/sound/zhaitengzhi/fan_dora5.mp3"
+      ],
+      "to": "audio/fan_dora5.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora6.mp3",
+        "audio/sound/ruyuelian/fan_dora6.mp3",
+        "audio/sound/qixi/fan_dora6.mp3",
+        "audio/sound/shiyuanduihai/fan_dora6.mp3",
+        "audio/sound/sigongxiasheng/fan_dora6.mp3",
+        "audio/sound/wangcilang/fan_dora6.mp3",
+        "audio/sound/yizhilaikong/fan_dora6.mp3",
+        "audio/sound/yuejianshan/fan_dora6.mp3",
+        "audio/sound/yuesefu/fan_dora6.mp3",
+        "audio/sound/zhaitengzhi/fan_dora6.mp3"
+      ],
+      "to": "audio/fan_dora6.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora7.mp3",
+        "audio/sound/ruyuelian/fan_dora7.mp3",
+        "audio/sound/qixi/fan_dora7.mp3",
+        "audio/sound/shiyuanduihai/fan_dora7.mp3",
+        "audio/sound/sigongxiasheng/fan_dora7.mp3",
+        "audio/sound/wangcilang/fan_dora7.mp3",
+        "audio/sound/yizhilaikong/fan_dora7.mp3",
+        "audio/sound/yuejianshan/fan_dora7.mp3",
+        "audio/sound/yuesefu/fan_dora7.mp3",
+        "audio/sound/zhaitengzhi/fan_dora7.mp3"
+      ],
+      "to": "audio/fan_dora7.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora8.mp3",
+        "audio/sound/ruyuelian/fan_dora8.mp3",
+        "audio/sound/qixi/fan_dora8.mp3",
+        "audio/sound/shiyuanduihai/fan_dora8.mp3",
+        "audio/sound/sigongxiasheng/fan_dora8.mp3",
+        "audio/sound/wangcilang/fan_dora8.mp3",
+        "audio/sound/yizhilaikong/fan_dora8.mp3",
+        "audio/sound/yuejianshan/fan_dora8.mp3",
+        "audio/sound/yuesefu/fan_dora8.mp3",
+        "audio/sound/zhaitengzhi/fan_dora8.mp3"
+      ],
+      "to": "audio/fan_dora8.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora9.mp3",
+        "audio/sound/ruyuelian/fan_dora9.mp3",
+        "audio/sound/qixi/fan_dora9.mp3",
+        "audio/sound/shiyuanduihai/fan_dora9.mp3",
+        "audio/sound/sigongxiasheng/fan_dora9.mp3",
+        "audio/sound/wangcilang/fan_dora9.mp3",
+        "audio/sound/yizhilaikong/fan_dora9.mp3",
+        "audio/sound/yuejianshan/fan_dora9.mp3",
+        "audio/sound/yuesefu/fan_dora9.mp3",
+        "audio/sound/zhaitengzhi/fan_dora9.mp3"
+      ],
+      "to": "audio/fan_dora9.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora10.mp3",
+        "audio/sound/ruyuelian/fan_dora10.mp3",
+        "audio/sound/qixi/fan_dora10.mp3",
+        "audio/sound/shiyuanduihai/fan_dora10.mp3",
+        "audio/sound/sigongxiasheng/fan_dora10.mp3",
+        "audio/sound/wangcilang/fan_dora10.mp3",
+        "audio/sound/yizhilaikong/fan_dora10.mp3",
+        "audio/sound/yuejianshan/fan_dora10.mp3",
+        "audio/sound/yuesefu/fan_dora10.mp3",
+        "audio/sound/zhaitengzhi/fan_dora10.mp3"
+      ],
+      "to": "audio/fan_dora10.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora11.mp3",
+        "audio/sound/ruyuelian/fan_dora11.mp3",
+        "audio/sound/qixi/fan_dora11.mp3",
+        "audio/sound/shiyuanduihai/fan_dora11.mp3",
+        "audio/sound/sigongxiasheng/fan_dora11.mp3",
+        "audio/sound/wangcilang/fan_dora11.mp3",
+        "audio/sound/yizhilaikong/fan_dora11.mp3",
+        "audio/sound/yuejianshan/fan_dora11.mp3",
+        "audio/sound/yuesefu/fan_dora11.mp3",
+        "audio/sound/zhaitengzhi/fan_dora11.mp3"
+      ],
+      "to": "audio/fan_dora11.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora12.mp3",
+        "audio/sound/ruyuelian/fan_dora12.mp3",
+        "audio/sound/qixi/fan_dora12.mp3",
+        "audio/sound/shiyuanduihai/fan_dora12.mp3",
+        "audio/sound/sigongxiasheng/fan_dora12.mp3",
+        "audio/sound/wangcilang/fan_dora12.mp3",
+        "audio/sound/yizhilaikong/fan_dora12.mp3",
+        "audio/sound/yuejianshan/fan_dora12.mp3",
+        "audio/sound/yuesefu/fan_dora12.mp3",
+        "audio/sound/zhaitengzhi/fan_dora12.mp3"
+      ],
+      "to": "audio/fan_dora12.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_dora13.mp3",
+        "audio/sound/ruyuelian/fan_dora13.mp3",
+        "audio/sound/qixi/fan_dora13.mp3",
+        "audio/sound/shiyuanduihai/fan_dora13.mp3",
+        "audio/sound/sigongxiasheng/fan_dora13.mp3",
+        "audio/sound/wangcilang/fan_dora13.mp3",
+        "audio/sound/yizhilaikong/fan_dora13.mp3",
+        "audio/sound/yuejianshan/fan_dora13.mp3",
+        "audio/sound/yuesefu/fan_dora13.mp3",
+        "audio/sound/zhaitengzhi/fan_dora13.mp3"
+      ],
+      "to": "audio/fan_dora13.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_doublebei.mp3",
+        "audio/sound/ruyuelian/fan_doublebei.mp3",
+        "audio/sound/qixi/fan_doublebei.mp3",
+        "audio/sound/shiyuanduihai/fan_doublebei.mp3",
+        "audio/sound/sigongxiasheng/fan_doublebei.mp3",
+        "audio/sound/wangcilang/fan_doublebei.mp3",
+        "audio/sound/yizhilaikong/fan_doublebei.mp3",
+        "audio/sound/yuejianshan/fan_doublebei.mp3",
+        "audio/sound/yuesefu/fan_doublebei.mp3",
+        "audio/sound/zhaitengzhi/fan_doublebei.mp3"
+      ],
+      "to": "audio/fan_doublebei.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_doubledong.mp3",
+        "audio/sound/ruyuelian/fan_doubledong.mp3",
+        "audio/sound/qixi/fan_doubledong.mp3",
+        "audio/sound/shiyuanduihai/fan_doubledong.mp3",
+        "audio/sound/sigongxiasheng/fan_doubledong.mp3",
+        "audio/sound/wangcilang/fan_doubledong.mp3",
+        "audio/sound/yizhilaikong/fan_doubledong.mp3",
+        "audio/sound/yuejianshan/fan_doubledong.mp3",
+        "audio/sound/yuesefu/fan_doubledong.mp3",
+        "audio/sound/zhaitengzhi/fan_doubledong.mp3"
+      ],
+      "to": "audio/fan_doubledong.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_doublenan.mp3",
+        "audio/sound/ruyuelian/fan_doublenan.mp3",
+        "audio/sound/qixi/fan_doublenan.mp3",
+        "audio/sound/shiyuanduihai/fan_doublenan.mp3",
+        "audio/sound/sigongxiasheng/fan_doublenan.mp3",
+        "audio/sound/wangcilang/fan_doublenan.mp3",
+        "audio/sound/yizhilaikong/fan_doublenan.mp3",
+        "audio/sound/yuejianshan/fan_doublenan.mp3",
+        "audio/sound/yuesefu/fan_doublenan.mp3",
+        "audio/sound/zhaitengzhi/fan_doublenan.mp3"
+      ],
+      "to": "audio/fan_doublenan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_doublexi.mp3",
+        "audio/sound/ruyuelian/fan_doublexi.mp3",
+        "audio/sound/qixi/fan_doublexi.mp3",
+        "audio/sound/shiyuanduihai/fan_doublexi.mp3",
+        "audio/sound/sigongxiasheng/fan_doublexi.mp3",
+        "audio/sound/wangcilang/fan_doublexi.mp3",
+        "audio/sound/yizhilaikong/fan_doublexi.mp3",
+        "audio/sound/yuejianshan/fan_doublexi.mp3",
+        "audio/sound/yuesefu/fan_doublexi.mp3",
+        "audio/sound/zhaitengzhi/fan_doublexi.mp3"
+      ],
+      "to": "audio/fan_doublexi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_drich.mp3",
+        "audio/sound/ruyuelian/fan_drich.mp3",
+        "audio/sound/qixi/fan_drich.mp3",
+        "audio/sound/shiyuanduihai/fan_drich.mp3",
+        "audio/sound/sigongxiasheng/fan_drich.mp3",
+        "audio/sound/wangcilang/fan_drich.mp3",
+        "audio/sound/yizhilaikong/fan_drich.mp3",
+        "audio/sound/yuejianshan/fan_drich.mp3",
+        "audio/sound/yuesefu/fan_drich.mp3",
+        "audio/sound/zhaitengzhi/fan_drich.mp3"
+      ],
+      "to": "audio/fan_drich.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_duanyao.mp3",
+        "audio/sound/ruyuelian/fan_duanyao.mp3",
+        "audio/sound/qixi/fan_duanyao.mp3",
+        "audio/sound/shiyuanduihai/fan_duanyao.mp3",
+        "audio/sound/sigongxiasheng/fan_duanyao.mp3",
+        "audio/sound/wangcilang/fan_duanyao.mp3",
+        "audio/sound/yizhilaikong/fan_duanyao.mp3",
+        "audio/sound/yuejianshan/fan_duanyao.mp3",
+        "audio/sound/yuesefu/fan_duanyao.mp3",
+        "audio/sound/zhaitengzhi/fan_duanyao.mp3"
+      ],
+      "to": "audio/fan_duanyao.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_duiduihu.mp3",
+        "audio/sound/ruyuelian/fan_duiduihu.mp3",
+        "audio/sound/qixi/fan_duiduihu.mp3",
+        "audio/sound/shiyuanduihai/fan_duiduihu.mp3",
+        "audio/sound/sigongxiasheng/fan_duiduihu.mp3",
+        "audio/sound/wangcilang/fan_duiduihu.mp3",
+        "audio/sound/yizhilaikong/fan_duiduihu.mp3",
+        "audio/sound/yuejianshan/fan_duiduihu.mp3",
+        "audio/sound/yuesefu/fan_duiduihu.mp3",
+        "audio/sound/zhaitengzhi/fan_duiduihu.mp3"
+      ],
+      "to": "audio/fan_duiduihu.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_erbeikou.mp3",
+        "audio/sound/ruyuelian/fan_erbeikou.mp3",
+        "audio/sound/qixi/fan_erbeikou.mp3",
+        "audio/sound/shiyuanduihai/fan_erbeikou.mp3",
+        "audio/sound/sigongxiasheng/fan_erbeikou.mp3",
+        "audio/sound/wangcilang/fan_erbeikou.mp3",
+        "audio/sound/yizhilaikong/fan_erbeikou.mp3",
+        "audio/sound/yuejianshan/fan_erbeikou.mp3",
+        "audio/sound/yuesefu/fan_erbeikou.mp3",
+        "audio/sound/zhaitengzhi/fan_erbeikou.mp3"
+      ],
+      "to": "audio/fan_erbeikou.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_fa.mp3",
+        "audio/sound/ruyuelian/fan_fa.mp3",
+        "audio/sound/qixi/fan_fa.mp3",
+        "audio/sound/shiyuanduihai/fan_fa.mp3",
+        "audio/sound/sigongxiasheng/fan_fa.mp3",
+        "audio/sound/wangcilang/fan_fa.mp3",
+        "audio/sound/yizhilaikong/fan_fa.mp3",
+        "audio/sound/yuejianshan/fan_fa.mp3",
+        "audio/sound/yuesefu/fan_fa.mp3",
+        "audio/sound/zhaitengzhi/fan_fa.mp3"
+      ],
+      "to": "audio/fan_fa.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_guoshishisanmian.mp3",
+        "audio/sound/ruyuelian/fan_guoshishisanmian.mp3",
+        "audio/sound/qixi/fan_guoshishisanmian.mp3",
+        "audio/sound/shiyuanduihai/fan_guoshishisanmian.mp3",
+        "audio/sound/sigongxiasheng/fan_guoshishisanmian.mp3",
+        "audio/sound/wangcilang/fan_guoshishisanmian.mp3",
+        "audio/sound/yizhilaikong/fan_guoshishisanmian.mp3",
+        "audio/sound/yuejianshan/fan_guoshishisanmian.mp3",
+        "audio/sound/yuesefu/fan_guoshishisanmian.mp3",
+        "audio/sound/zhaitengzhi/fan_guoshishisanmian.mp3"
+      ],
+      "to": "audio/fan_guoshishisanmian.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_guoshiwushuang.mp3",
+        "audio/sound/ruyuelian/fan_guoshiwushuang.mp3",
+        "audio/sound/qixi/fan_guoshiwushuang.mp3",
+        "audio/sound/shiyuanduihai/fan_guoshiwushuang.mp3",
+        "audio/sound/sigongxiasheng/fan_guoshiwushuang.mp3",
+        "audio/sound/wangcilang/fan_guoshiwushuang.mp3",
+        "audio/sound/yizhilaikong/fan_guoshiwushuang.mp3",
+        "audio/sound/yuejianshan/fan_guoshiwushuang.mp3",
+        "audio/sound/yuesefu/fan_guoshiwushuang.mp3",
+        "audio/sound/zhaitengzhi/fan_guoshiwushuang.mp3"
+      ],
+      "to": "audio/fan_guoshiwushuang.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_haidi.mp3",
+        "audio/sound/ruyuelian/fan_haidi.mp3",
+        "audio/sound/qixi/fan_haidi.mp3",
+        "audio/sound/shiyuanduihai/fan_haidi.mp3",
+        "audio/sound/sigongxiasheng/fan_haidi.mp3",
+        "audio/sound/wangcilang/fan_haidi.mp3",
+        "audio/sound/yizhilaikong/fan_haidi.mp3",
+        "audio/sound/yuejianshan/fan_haidi.mp3",
+        "audio/sound/yuesefu/fan_haidi.mp3",
+        "audio/sound/zhaitengzhi/fan_haidi.mp3"
+      ],
+      "to": "audio/fan_haidi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_hedi.mp3",
+        "audio/sound/ruyuelian/fan_hedi.mp3",
+        "audio/sound/qixi/fan_hedi.mp3",
+        "audio/sound/shiyuanduihai/fan_hedi.mp3",
+        "audio/sound/sigongxiasheng/fan_hedi.mp3",
+        "audio/sound/wangcilang/fan_hedi.mp3",
+        "audio/sound/yizhilaikong/fan_hedi.mp3",
+        "audio/sound/yuejianshan/fan_hedi.mp3",
+        "audio/sound/yuesefu/fan_hedi.mp3",
+        "audio/sound/zhaitengzhi/fan_hedi.mp3"
+      ],
+      "to": "audio/fan_hedi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_hunlaotou.mp3",
+        "audio/sound/ruyuelian/fan_hunlaotou.mp3",
+        "audio/sound/qixi/fan_hunlaotou.mp3",
+        "audio/sound/shiyuanduihai/fan_hunlaotou.mp3",
+        "audio/sound/sigongxiasheng/fan_hunlaotou.mp3",
+        "audio/sound/wangcilang/fan_hunlaotou.mp3",
+        "audio/sound/yizhilaikong/fan_hunlaotou.mp3",
+        "audio/sound/yuejianshan/fan_hunlaotou.mp3",
+        "audio/sound/yuesefu/fan_hunlaotou.mp3",
+        "audio/sound/zhaitengzhi/fan_hunlaotou.mp3"
+      ],
+      "to": "audio/fan_hunlaotou.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/ruyuelian/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/qixi/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/shiyuanduihai/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/sigongxiasheng/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/wangcilang/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/yizhilaikong/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/yuejianshan/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/yuesefu/fan_hunquandaiyaojiu.mp3",
+        "audio/sound/zhaitengzhi/fan_hunquandaiyaojiu.mp3"
+      ],
+      "to": "audio/fan_hunquandaiyaojiu.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_hunyise.mp3",
+        "audio/sound/ruyuelian/fan_hunyise.mp3",
+        "audio/sound/qixi/fan_hunyise.mp3",
+        "audio/sound/shiyuanduihai/fan_hunyise.mp3",
+        "audio/sound/sigongxiasheng/fan_hunyise.mp3",
+        "audio/sound/wangcilang/fan_hunyise.mp3",
+        "audio/sound/yizhilaikong/fan_hunyise.mp3",
+        "audio/sound/yuejianshan/fan_hunyise.mp3",
+        "audio/sound/yuesefu/fan_hunyise.mp3",
+        "audio/sound/zhaitengzhi/fan_hunyise.mp3"
+      ],
+      "to": "audio/fan_hunyise.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_jiulianbaodeng.mp3",
+        "audio/sound/ruyuelian/fan_jiulianbaodeng.mp3",
+        "audio/sound/qixi/fan_jiulianbaodeng.mp3",
+        "audio/sound/shiyuanduihai/fan_jiulianbaodeng.mp3",
+        "audio/sound/sigongxiasheng/fan_jiulianbaodeng.mp3",
+        "audio/sound/wangcilang/fan_jiulianbaodeng.mp3",
+        "audio/sound/yizhilaikong/fan_jiulianbaodeng.mp3",
+        "audio/sound/yuejianshan/fan_jiulianbaodeng.mp3",
+        "audio/sound/yuesefu/fan_jiulianbaodeng.mp3",
+        "audio/sound/zhaitengzhi/fan_jiulianbaodeng.mp3"
+      ],
+      "to": "audio/fan_jiulianbaodeng.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_lingshang.mp3",
+        "audio/sound/ruyuelian/fan_lingshang.mp3",
+        "audio/sound/qixi/fan_lingshang.mp3",
+        "audio/sound/shiyuanduihai/fan_lingshang.mp3",
+        "audio/sound/sigongxiasheng/fan_lingshang.mp3",
+        "audio/sound/wangcilang/fan_lingshang.mp3",
+        "audio/sound/yizhilaikong/fan_lingshang.mp3",
+        "audio/sound/yuejianshan/fan_lingshang.mp3",
+        "audio/sound/yuesefu/fan_lingshang.mp3",
+        "audio/sound/zhaitengzhi/fan_lingshang.mp3"
+      ],
+      "to": "audio/fan_lingshang.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_liqi.mp3",
+        "audio/sound/ruyuelian/fan_liqi.mp3",
+        "audio/sound/qixi/fan_liqi.mp3",
+        "audio/sound/shiyuanduihai/fan_liqi.mp3",
+        "audio/sound/sigongxiasheng/fan_liqi.mp3",
+        "audio/sound/wangcilang/fan_liqi.mp3",
+        "audio/sound/yizhilaikong/fan_liqi.mp3",
+        "audio/sound/yuejianshan/fan_liqi.mp3",
+        "audio/sound/yuesefu/fan_liqi.mp3",
+        "audio/sound/zhaitengzhi/fan_liqi.mp3"
+      ],
+      "to": "audio/fan_liqi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_liujumanguan.mp3",
+        "audio/sound/ruyuelian/fan_liujumanguan.mp3",
+        "audio/sound/qixi/fan_liujumanguan.mp3",
+        "audio/sound/shiyuanduihai/fan_liujumanguan.mp3",
+        "audio/sound/sigongxiasheng/fan_liujumanguan.mp3",
+        "audio/sound/wangcilang/fan_liujumanguan.mp3",
+        "audio/sound/yizhilaikong/fan_liujumanguan.mp3",
+        "audio/sound/yuejianshan/fan_liujumanguan.mp3",
+        "audio/sound/yuesefu/fan_liujumanguan.mp3",
+        "audio/sound/zhaitengzhi/fan_liujumanguan.mp3"
+      ],
+      "to": "audio/fan_liujumanguan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_lvyise.mp3",
+        "audio/sound/ruyuelian/fan_lvyise.mp3",
+        "audio/sound/qixi/fan_lvyise.mp3",
+        "audio/sound/shiyuanduihai/fan_lvyise.mp3",
+        "audio/sound/sigongxiasheng/fan_lvyise.mp3",
+        "audio/sound/wangcilang/fan_lvyise.mp3",
+        "audio/sound/yizhilaikong/fan_lvyise.mp3",
+        "audio/sound/yuejianshan/fan_lvyise.mp3",
+        "audio/sound/yuesefu/fan_lvyise.mp3",
+        "audio/sound/zhaitengzhi/fan_lvyise.mp3"
+      ],
+      "to": "audio/fan_lvyise.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_nan.mp3",
+        "audio/sound/ruyuelian/fan_nan.mp3",
+        "audio/sound/qixi/fan_nan.mp3",
+        "audio/sound/shiyuanduihai/fan_nan.mp3",
+        "audio/sound/sigongxiasheng/fan_nan.mp3",
+        "audio/sound/wangcilang/fan_nan.mp3",
+        "audio/sound/yizhilaikong/fan_nan.mp3",
+        "audio/sound/yuejianshan/fan_nan.mp3",
+        "audio/sound/yuesefu/fan_nan.mp3",
+        "audio/sound/zhaitengzhi/fan_nan.mp3"
+      ],
+      "to": "audio/fan_nan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_pinghu.mp3",
+        "audio/sound/ruyuelian/fan_pinghu.mp3",
+        "audio/sound/qixi/fan_pinghu.mp3",
+        "audio/sound/shiyuanduihai/fan_pinghu.mp3",
+        "audio/sound/sigongxiasheng/fan_pinghu.mp3",
+        "audio/sound/wangcilang/fan_pinghu.mp3",
+        "audio/sound/yizhilaikong/fan_pinghu.mp3",
+        "audio/sound/yuejianshan/fan_pinghu.mp3",
+        "audio/sound/yuesefu/fan_pinghu.mp3",
+        "audio/sound/zhaitengzhi/fan_pinghu.mp3"
+      ],
+      "to": "audio/fan_pinghu.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_qianggang.mp3",
+        "audio/sound/ruyuelian/fan_qianggang.mp3",
+        "audio/sound/qixi/fan_qianggang.mp3",
+        "audio/sound/shiyuanduihai/fan_qianggang.mp3",
+        "audio/sound/sigongxiasheng/fan_qianggang.mp3",
+        "audio/sound/wangcilang/fan_qianggang.mp3",
+        "audio/sound/yizhilaikong/fan_qianggang.mp3",
+        "audio/sound/yuejianshan/fan_qianggang.mp3",
+        "audio/sound/yuesefu/fan_qianggang.mp3",
+        "audio/sound/zhaitengzhi/fan_qianggang.mp3"
+      ],
+      "to": "audio/fan_qianggang.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_qiduizi.mp3",
+        "audio/sound/ruyuelian/fan_qiduizi.mp3",
+        "audio/sound/qixi/fan_qiduizi.mp3",
+        "audio/sound/shiyuanduihai/fan_qiduizi.mp3",
+        "audio/sound/sigongxiasheng/fan_qiduizi.mp3",
+        "audio/sound/wangcilang/fan_qiduizi.mp3",
+        "audio/sound/yizhilaikong/fan_qiduizi.mp3",
+        "audio/sound/yuejianshan/fan_qiduizi.mp3",
+        "audio/sound/yuesefu/fan_qiduizi.mp3",
+        "audio/sound/zhaitengzhi/fan_qiduizi.mp3"
+      ],
+      "to": "audio/fan_qiduizi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_qinglaotou.mp3",
+        "audio/sound/ruyuelian/fan_qinglaotou.mp3",
+        "audio/sound/qixi/fan_qinglaotou.mp3",
+        "audio/sound/shiyuanduihai/fan_qinglaotou.mp3",
+        "audio/sound/sigongxiasheng/fan_qinglaotou.mp3",
+        "audio/sound/wangcilang/fan_qinglaotou.mp3",
+        "audio/sound/yizhilaikong/fan_qinglaotou.mp3",
+        "audio/sound/yuejianshan/fan_qinglaotou.mp3",
+        "audio/sound/yuesefu/fan_qinglaotou.mp3",
+        "audio/sound/zhaitengzhi/fan_qinglaotou.mp3"
+      ],
+      "to": "audio/fan_qinglaotou.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_qingyise.mp3",
+        "audio/sound/ruyuelian/fan_qingyise.mp3",
+        "audio/sound/qixi/fan_qingyise.mp3",
+        "audio/sound/shiyuanduihai/fan_qingyise.mp3",
+        "audio/sound/sigongxiasheng/fan_qingyise.mp3",
+        "audio/sound/wangcilang/fan_qingyise.mp3",
+        "audio/sound/yizhilaikong/fan_qingyise.mp3",
+        "audio/sound/yuejianshan/fan_qingyise.mp3",
+        "audio/sound/yuesefu/fan_qingyise.mp3",
+        "audio/sound/zhaitengzhi/fan_qingyise.mp3"
+      ],
+      "to": "audio/fan_qingyise.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_sananke.mp3",
+        "audio/sound/ruyuelian/fan_sananke.mp3",
+        "audio/sound/qixi/fan_sananke.mp3",
+        "audio/sound/shiyuanduihai/fan_sananke.mp3",
+        "audio/sound/sigongxiasheng/fan_sananke.mp3",
+        "audio/sound/wangcilang/fan_sananke.mp3",
+        "audio/sound/yizhilaikong/fan_sananke.mp3",
+        "audio/sound/yuejianshan/fan_sananke.mp3",
+        "audio/sound/yuesefu/fan_sananke.mp3",
+        "audio/sound/zhaitengzhi/fan_sananke.mp3"
+      ],
+      "to": "audio/fan_sananke.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_sangangzi.mp3",
+        "audio/sound/ruyuelian/fan_sangangzi.mp3",
+        "audio/sound/qixi/fan_sangangzi.mp3",
+        "audio/sound/shiyuanduihai/fan_sangangzi.mp3",
+        "audio/sound/sigongxiasheng/fan_sangangzi.mp3",
+        "audio/sound/wangcilang/fan_sangangzi.mp3",
+        "audio/sound/yizhilaikong/fan_sangangzi.mp3",
+        "audio/sound/yuejianshan/fan_sangangzi.mp3",
+        "audio/sound/yuesefu/fan_sangangzi.mp3",
+        "audio/sound/zhaitengzhi/fan_sangangzi.mp3"
+      ],
+      "to": "audio/fan_sangangzi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_sansetongke.mp3",
+        "audio/sound/ruyuelian/fan_sansetongke.mp3",
+        "audio/sound/qixi/fan_sansetongke.mp3",
+        "audio/sound/shiyuanduihai/fan_sansetongke.mp3",
+        "audio/sound/sigongxiasheng/fan_sansetongke.mp3",
+        "audio/sound/wangcilang/fan_sansetongke.mp3",
+        "audio/sound/yizhilaikong/fan_sansetongke.mp3",
+        "audio/sound/yuejianshan/fan_sansetongke.mp3",
+        "audio/sound/yuesefu/fan_sansetongke.mp3",
+        "audio/sound/zhaitengzhi/fan_sansetongke.mp3"
+      ],
+      "to": "audio/fan_sansetongke.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_sansetongshun.mp3",
+        "audio/sound/ruyuelian/fan_sansetongshun.mp3",
+        "audio/sound/qixi/fan_sansetongshun.mp3",
+        "audio/sound/shiyuanduihai/fan_sansetongshun.mp3",
+        "audio/sound/sigongxiasheng/fan_sansetongshun.mp3",
+        "audio/sound/wangcilang/fan_sansetongshun.mp3",
+        "audio/sound/yizhilaikong/fan_sansetongshun.mp3",
+        "audio/sound/yuejianshan/fan_sansetongshun.mp3",
+        "audio/sound/yuesefu/fan_sansetongshun.mp3",
+        "audio/sound/zhaitengzhi/fan_sansetongshun.mp3"
+      ],
+      "to": "audio/fan_sansetongshun.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_sianke.mp3",
+        "audio/sound/ruyuelian/fan_sianke.mp3",
+        "audio/sound/qixi/fan_sianke.mp3",
+        "audio/sound/shiyuanduihai/fan_sianke.mp3",
+        "audio/sound/sigongxiasheng/fan_sianke.mp3",
+        "audio/sound/wangcilang/fan_sianke.mp3",
+        "audio/sound/yizhilaikong/fan_sianke.mp3",
+        "audio/sound/yuejianshan/fan_sianke.mp3",
+        "audio/sound/yuesefu/fan_sianke.mp3",
+        "audio/sound/zhaitengzhi/fan_sianke.mp3"
+      ],
+      "to": "audio/fan_sianke.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_siankedanqi.mp3",
+        "audio/sound/ruyuelian/fan_siankedanqi.mp3",
+        "audio/sound/qixi/fan_siankedanqi.mp3",
+        "audio/sound/shiyuanduihai/fan_siankedanqi.mp3",
+        "audio/sound/sigongxiasheng/fan_siankedanqi.mp3",
+        "audio/sound/wangcilang/fan_siankedanqi.mp3",
+        "audio/sound/yizhilaikong/fan_siankedanqi.mp3",
+        "audio/sound/yuejianshan/fan_siankedanqi.mp3",
+        "audio/sound/yuesefu/fan_siankedanqi.mp3",
+        "audio/sound/zhaitengzhi/fan_siankedanqi.mp3"
+      ],
+      "to": "audio/fan_siankedanqi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_sigangzi.mp3",
+        "audio/sound/ruyuelian/fan_sigangzi.mp3",
+        "audio/sound/qixi/fan_sigangzi.mp3",
+        "audio/sound/shiyuanduihai/fan_sigangzi.mp3",
+        "audio/sound/sigongxiasheng/fan_sigangzi.mp3",
+        "audio/sound/wangcilang/fan_sigangzi.mp3",
+        "audio/sound/yizhilaikong/fan_sigangzi.mp3",
+        "audio/sound/yuejianshan/fan_sigangzi.mp3",
+        "audio/sound/yuesefu/fan_sigangzi.mp3",
+        "audio/sound/zhaitengzhi/fan_sigangzi.mp3"
+      ],
+      "to": "audio/fan_sigangzi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_tianhu.mp3",
+        "audio/sound/ruyuelian/fan_tianhu.mp3",
+        "audio/sound/qixi/fan_tianhu.mp3",
+        "audio/sound/shiyuanduihai/fan_tianhu.mp3",
+        "audio/sound/sigongxiasheng/fan_tianhu.mp3",
+        "audio/sound/wangcilang/fan_tianhu.mp3",
+        "audio/sound/yizhilaikong/fan_tianhu.mp3",
+        "audio/sound/yuejianshan/fan_tianhu.mp3",
+        "audio/sound/yuesefu/fan_tianhu.mp3",
+        "audio/sound/zhaitengzhi/fan_tianhu.mp3"
+      ],
+      "to": "audio/fan_tianhu.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_xi.mp3",
+        "audio/sound/ruyuelian/fan_xi.mp3",
+        "audio/sound/qixi/fan_xi.mp3",
+        "audio/sound/shiyuanduihai/fan_xi.mp3",
+        "audio/sound/sigongxiasheng/fan_xi.mp3",
+        "audio/sound/wangcilang/fan_xi.mp3",
+        "audio/sound/yizhilaikong/fan_xi.mp3",
+        "audio/sound/yuejianshan/fan_xi.mp3",
+        "audio/sound/yuesefu/fan_xi.mp3",
+        "audio/sound/zhaitengzhi/fan_xi.mp3"
+      ],
+      "to": "audio/fan_xi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_xiaosanyuan.mp3",
+        "audio/sound/ruyuelian/fan_xiaosanyuan.mp3",
+        "audio/sound/qixi/fan_xiaosanyuan.mp3",
+        "audio/sound/shiyuanduihai/fan_xiaosanyuan.mp3",
+        "audio/sound/sigongxiasheng/fan_xiaosanyuan.mp3",
+        "audio/sound/wangcilang/fan_xiaosanyuan.mp3",
+        "audio/sound/yizhilaikong/fan_xiaosanyuan.mp3",
+        "audio/sound/yuejianshan/fan_xiaosanyuan.mp3",
+        "audio/sound/yuesefu/fan_xiaosanyuan.mp3",
+        "audio/sound/zhaitengzhi/fan_xiaosanyuan.mp3"
+      ],
+      "to": "audio/fan_xiaosanyuan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_xiaosixi.mp3",
+        "audio/sound/ruyuelian/fan_xiaosixi.mp3",
+        "audio/sound/qixi/fan_xiaosixi.mp3",
+        "audio/sound/shiyuanduihai/fan_xiaosixi.mp3",
+        "audio/sound/sigongxiasheng/fan_xiaosixi.mp3",
+        "audio/sound/wangcilang/fan_xiaosixi.mp3",
+        "audio/sound/yizhilaikong/fan_xiaosixi.mp3",
+        "audio/sound/yuejianshan/fan_xiaosixi.mp3",
+        "audio/sound/yuesefu/fan_xiaosixi.mp3",
+        "audio/sound/zhaitengzhi/fan_xiaosixi.mp3"
+      ],
+      "to": "audio/fan_xiaosixi.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_yibeikou.mp3",
+        "audio/sound/ruyuelian/fan_yibeikou.mp3",
+        "audio/sound/qixi/fan_yibeikou.mp3",
+        "audio/sound/shiyuanduihai/fan_yibeikou.mp3",
+        "audio/sound/sigongxiasheng/fan_yibeikou.mp3",
+        "audio/sound/wangcilang/fan_yibeikou.mp3",
+        "audio/sound/yizhilaikong/fan_yibeikou.mp3",
+        "audio/sound/yuejianshan/fan_yibeikou.mp3",
+        "audio/sound/yuesefu/fan_yibeikou.mp3",
+        "audio/sound/zhaitengzhi/fan_yibeikou.mp3"
+      ],
+      "to": "audio/fan_yibeikou.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_yifa.mp3",
+        "audio/sound/ruyuelian/fan_yifa.mp3",
+        "audio/sound/qixi/fan_yifa.mp3",
+        "audio/sound/shiyuanduihai/fan_yifa.mp3",
+        "audio/sound/sigongxiasheng/fan_yifa.mp3",
+        "audio/sound/wangcilang/fan_yifa.mp3",
+        "audio/sound/yizhilaikong/fan_yifa.mp3",
+        "audio/sound/yuejianshan/fan_yifa.mp3",
+        "audio/sound/yuesefu/fan_yifa.mp3",
+        "audio/sound/zhaitengzhi/fan_yifa.mp3"
+      ],
+      "to": "audio/fan_yifa.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_yiqitongguan.mp3",
+        "audio/sound/ruyuelian/fan_yiqitongguan.mp3",
+        "audio/sound/qixi/fan_yiqitongguan.mp3",
+        "audio/sound/shiyuanduihai/fan_yiqitongguan.mp3",
+        "audio/sound/sigongxiasheng/fan_yiqitongguan.mp3",
+        "audio/sound/wangcilang/fan_yiqitongguan.mp3",
+        "audio/sound/yizhilaikong/fan_yiqitongguan.mp3",
+        "audio/sound/yuejianshan/fan_yiqitongguan.mp3",
+        "audio/sound/yuesefu/fan_yiqitongguan.mp3",
+        "audio/sound/zhaitengzhi/fan_yiqitongguan.mp3"
+      ],
+      "to": "audio/fan_yiqitongguan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_zhong.mp3",
+        "audio/sound/ruyuelian/fan_zhong.mp3",
+        "audio/sound/qixi/fan_zhong.mp3",
+        "audio/sound/shiyuanduihai/fan_zhong.mp3",
+        "audio/sound/sigongxiasheng/fan_zhong.mp3",
+        "audio/sound/wangcilang/fan_zhong.mp3",
+        "audio/sound/yizhilaikong/fan_zhong.mp3",
+        "audio/sound/yuejianshan/fan_zhong.mp3",
+        "audio/sound/yuesefu/fan_zhong.mp3",
+        "audio/sound/zhaitengzhi/fan_zhong.mp3"
+      ],
+      "to": "audio/fan_zhong.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_zimo.mp3",
+        "audio/sound/ruyuelian/fan_zimo.mp3",
+        "audio/sound/qixi/fan_zimo.mp3",
+        "audio/sound/shiyuanduihai/fan_zimo.mp3",
+        "audio/sound/sigongxiasheng/fan_zimo.mp3",
+        "audio/sound/wangcilang/fan_zimo.mp3",
+        "audio/sound/yizhilaikong/fan_zimo.mp3",
+        "audio/sound/yuejianshan/fan_zimo.mp3",
+        "audio/sound/yuesefu/fan_zimo.mp3",
+        "audio/sound/zhaitengzhi/fan_zimo.mp3"
+      ],
+      "to": "audio/fan_zimo.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/fan_ziyise.mp3",
+        "audio/sound/ruyuelian/fan_ziyise.mp3",
+        "audio/sound/qixi/fan_ziyise.mp3",
+        "audio/sound/shiyuanduihai/fan_ziyise.mp3",
+        "audio/sound/sigongxiasheng/fan_ziyise.mp3",
+        "audio/sound/wangcilang/fan_ziyise.mp3",
+        "audio/sound/yizhilaikong/fan_ziyise.mp3",
+        "audio/sound/yuejianshan/fan_ziyise.mp3",
+        "audio/sound/yuesefu/fan_ziyise.mp3",
+        "audio/sound/zhaitengzhi/fan_ziyise.mp3"
+      ],
+      "to": "audio/fan_ziyise.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_beiman.mp3",
+        "audio/sound/ruyuelian/gameend_beiman.mp3",
+        "audio/sound/qixi/gameend_beiman.mp3",
+        "audio/sound/shiyuanduihai/gameend_beiman.mp3",
+        "audio/sound/sigongxiasheng/gameend_beiman.mp3",
+        "audio/sound/wangcilang/gameend_beiman.mp3",
+        "audio/sound/yizhilaikong/gameend_beiman.mp3",
+        "audio/sound/yuejianshan/gameend_beiman.mp3",
+        "audio/sound/yuesefu/gameend_beiman.mp3",
+        "audio/sound/zhaitengzhi/gameend_beiman.mp3"
+      ],
+      "to": "audio/gameend_beiman.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/ruyuelian/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/qixi/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/shiyuanduihai/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/sigongxiasheng/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/wangcilang/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/yizhilaikong/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/yuejianshan/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/yuesefu/gameend_jiuzhongjiupai.mp3",
+        "audio/sound/zhaitengzhi/gameend_jiuzhongjiupai.mp3"
+      ],
+      "to": "audio/gameend_jiuzhongjiupai.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_leijiyiman.mp3",
+        "audio/sound/ruyuelian/gameend_leijiyiman.mp3",
+        "audio/sound/qixi/gameend_leijiyiman.mp3",
+        "audio/sound/shiyuanduihai/gameend_leijiyiman.mp3",
+        "audio/sound/sigongxiasheng/gameend_leijiyiman.mp3",
+        "audio/sound/wangcilang/gameend_leijiyiman.mp3",
+        "audio/sound/yizhilaikong/gameend_leijiyiman.mp3",
+        "audio/sound/yuejianshan/gameend_leijiyiman.mp3",
+        "audio/sound/yuesefu/gameend_leijiyiman.mp3",
+        "audio/sound/zhaitengzhi/gameend_leijiyiman.mp3"
+      ],
+      "to": "audio/gameend_leijiyiman.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_manguan.mp3",
+        "audio/sound/ruyuelian/gameend_manguan.mp3",
+        "audio/sound/qixi/gameend_manguan.mp3",
+        "audio/sound/shiyuanduihai/gameend_manguan.mp3",
+        "audio/sound/sigongxiasheng/gameend_manguan.mp3",
+        "audio/sound/wangcilang/gameend_manguan.mp3",
+        "audio/sound/yizhilaikong/gameend_manguan.mp3",
+        "audio/sound/yuejianshan/gameend_manguan.mp3",
+        "audio/sound/yuesefu/gameend_manguan.mp3",
+        "audio/sound/zhaitengzhi/gameend_manguan.mp3"
+      ],
+      "to": "audio/gameend_manguan.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_noting.mp3",
+        "audio/sound/ruyuelian/gameend_noting.mp3",
+        "audio/sound/qixi/gameend_noting.mp3",
+        "audio/sound/shiyuanduihai/gameend_noting.mp3",
+        "audio/sound/sigongxiasheng/gameend_noting.mp3",
+        "audio/sound/wangcilang/gameend_noting.mp3",
+        "audio/sound/yizhilaikong/gameend_noting.mp3",
+        "audio/sound/yuejianshan/gameend_noting.mp3",
+        "audio/sound/yuesefu/gameend_noting.mp3",
+        "audio/sound/zhaitengzhi/gameend_noting.mp3"
+      ],
+      "to": "audio/gameend_noting.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_sanbeiman.mp3",
+        "audio/sound/ruyuelian/gameend_sanbeiman.mp3",
+        "audio/sound/qixi/gameend_sanbeiman.mp3",
+        "audio/sound/shiyuanduihai/gameend_sanbeiman.mp3",
+        "audio/sound/sigongxiasheng/gameend_sanbeiman.mp3",
+        "audio/sound/wangcilang/gameend_sanbeiman.mp3",
+        "audio/sound/yizhilaikong/gameend_sanbeiman.mp3",
+        "audio/sound/yuejianshan/gameend_sanbeiman.mp3",
+        "audio/sound/yuesefu/gameend_sanbeiman.mp3",
+        "audio/sound/zhaitengzhi/gameend_sanbeiman.mp3"
+      ],
+      "to": "audio/gameend_sanbeiman.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_sifenglianda.mp3",
+        "audio/sound/ruyuelian/gameend_sifenglianda.mp3",
+        "audio/sound/qixi/gameend_sifenglianda.mp3",
+        "audio/sound/shiyuanduihai/gameend_sifenglianda.mp3",
+        "audio/sound/sigongxiasheng/gameend_sifenglianda.mp3",
+        "audio/sound/wangcilang/gameend_sifenglianda.mp3",
+        "audio/sound/yizhilaikong/gameend_sifenglianda.mp3",
+        "audio/sound/yuejianshan/gameend_sifenglianda.mp3",
+        "audio/sound/yuesefu/gameend_sifenglianda.mp3",
+        "audio/sound/zhaitengzhi/gameend_sifenglianda.mp3"
+      ],
+      "to": "audio/gameend_sifenglianda.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_sigangliuju.mp3",
+        "audio/sound/ruyuelian/gameend_sigangliuju.mp3",
+        "audio/sound/qixi/gameend_sigangliuju.mp3",
+        "audio/sound/shiyuanduihai/gameend_sigangliuju.mp3",
+        "audio/sound/sigongxiasheng/gameend_sigangliuju.mp3",
+        "audio/sound/wangcilang/gameend_sigangliuju.mp3",
+        "audio/sound/yizhilaikong/gameend_sigangliuju.mp3",
+        "audio/sound/yuejianshan/gameend_sigangliuju.mp3",
+        "audio/sound/yuesefu/gameend_sigangliuju.mp3",
+        "audio/sound/zhaitengzhi/gameend_sigangliuju.mp3"
+      ],
+      "to": "audio/gameend_sigangliuju.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_tiaoman.mp3",
+        "audio/sound/ruyuelian/gameend_tiaoman.mp3",
+        "audio/sound/qixi/gameend_tiaoman.mp3",
+        "audio/sound/shiyuanduihai/gameend_tiaoman.mp3",
+        "audio/sound/sigongxiasheng/gameend_tiaoman.mp3",
+        "audio/sound/wangcilang/gameend_tiaoman.mp3",
+        "audio/sound/yizhilaikong/gameend_tiaoman.mp3",
+        "audio/sound/yuejianshan/gameend_tiaoman.mp3",
+        "audio/sound/yuesefu/gameend_tiaoman.mp3",
+        "audio/sound/zhaitengzhi/gameend_tiaoman.mp3"
+      ],
+      "to": "audio/gameend_tiaoman.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_tingpai.mp3",
+        "audio/sound/ruyuelian/gameend_tingpai.mp3",
+        "audio/sound/qixi/gameend_tingpai.mp3",
+        "audio/sound/shiyuanduihai/gameend_tingpai.mp3",
+        "audio/sound/sigongxiasheng/gameend_tingpai.mp3",
+        "audio/sound/wangcilang/gameend_tingpai.mp3",
+        "audio/sound/yizhilaikong/gameend_tingpai.mp3",
+        "audio/sound/yuejianshan/gameend_tingpai.mp3",
+        "audio/sound/yuesefu/gameend_tingpai.mp3",
+        "audio/sound/zhaitengzhi/gameend_tingpai.mp3"
+      ],
+      "to": "audio/gameend_tingpai.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_yiman1.mp3",
+        "audio/sound/ruyuelian/gameend_yiman1.mp3",
+        "audio/sound/qixi/gameend_yiman1.mp3",
+        "audio/sound/shiyuanduihai/gameend_yiman1.mp3",
+        "audio/sound/sigongxiasheng/gameend_yiman1.mp3",
+        "audio/sound/wangcilang/gameend_yiman1.mp3",
+        "audio/sound/yizhilaikong/gameend_yiman1.mp3",
+        "audio/sound/yuejianshan/gameend_yiman1.mp3",
+        "audio/sound/yuesefu/gameend_yiman1.mp3",
+        "audio/sound/zhaitengzhi/gameend_yiman1.mp3"
+      ],
+      "to": "audio/gameend_yiman1.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_yiman2.mp3",
+        "audio/sound/ruyuelian/gameend_yiman2.mp3",
+        "audio/sound/qixi/gameend_yiman2.mp3",
+        "audio/sound/shiyuanduihai/gameend_yiman2.mp3",
+        "audio/sound/sigongxiasheng/gameend_yiman2.mp3",
+        "audio/sound/wangcilang/gameend_yiman2.mp3",
+        "audio/sound/yizhilaikong/gameend_yiman2.mp3",
+        "audio/sound/yuejianshan/gameend_yiman2.mp3",
+        "audio/sound/yuesefu/gameend_yiman2.mp3",
+        "audio/sound/zhaitengzhi/gameend_yiman2.mp3"
+      ],
+      "to": "audio/gameend_yiman2.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_yiman3.mp3",
+        "audio/sound/ruyuelian/gameend_yiman3.mp3",
+        "audio/sound/qixi/gameend_yiman3.mp3",
+        "audio/sound/shiyuanduihai/gameend_yiman3.mp3",
+        "audio/sound/sigongxiasheng/gameend_yiman3.mp3",
+        "audio/sound/wangcilang/gameend_yiman3.mp3",
+        "audio/sound/yizhilaikong/gameend_yiman3.mp3",
+        "audio/sound/yuejianshan/gameend_yiman3.mp3",
+        "audio/sound/yuesefu/gameend_yiman3.mp3",
+        "audio/sound/zhaitengzhi/gameend_yiman3.mp3"
+      ],
+      "to": "audio/gameend_yiman3.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_yiman4.mp3",
+        "audio/sound/ruyuelian/gameend_yiman4.mp3",
+        "audio/sound/qixi/gameend_yiman4.mp3",
+        "audio/sound/shiyuanduihai/gameend_yiman4.mp3",
+        "audio/sound/sigongxiasheng/gameend_yiman4.mp3",
+        "audio/sound/wangcilang/gameend_yiman4.mp3",
+        "audio/sound/yizhilaikong/gameend_yiman4.mp3",
+        "audio/sound/yuejianshan/gameend_yiman4.mp3",
+        "audio/sound/yuesefu/gameend_yiman4.mp3",
+        "audio/sound/zhaitengzhi/gameend_yiman4.mp3"
+      ],
+      "to": "audio/gameend_yiman4.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_yiman5.mp3",
+        "audio/sound/ruyuelian/gameend_yiman5.mp3",
+        "audio/sound/qixi/gameend_yiman5.mp3",
+        "audio/sound/shiyuanduihai/gameend_yiman5.mp3",
+        "audio/sound/sigongxiasheng/gameend_yiman5.mp3",
+        "audio/sound/wangcilang/gameend_yiman5.mp3",
+        "audio/sound/yizhilaikong/gameend_yiman5.mp3",
+        "audio/sound/yuejianshan/gameend_yiman5.mp3",
+        "audio/sound/yuesefu/gameend_yiman5.mp3",
+        "audio/sound/zhaitengzhi/gameend_yiman5.mp3"
+      ],
+      "to": "audio/gameend_yiman5.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/gameend_yiman6.mp3",
+        "audio/sound/ruyuelian/gameend_yiman6.mp3",
+        "audio/sound/qixi/gameend_yiman6.mp3",
+        "audio/sound/shiyuanduihai/gameend_yiman6.mp3",
+        "audio/sound/sigongxiasheng/gameend_yiman6.mp3",
+        "audio/sound/wangcilang/gameend_yiman6.mp3",
+        "audio/sound/yizhilaikong/gameend_yiman6.mp3",
+        "audio/sound/yuejianshan/gameend_yiman6.mp3",
+        "audio/sound/yuesefu/gameend_yiman6.mp3",
+        "audio/sound/zhaitengzhi/gameend_yiman6.mp3"
+      ],
+      "to": "audio/gameend_yiman6.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/game_top.mp3",
+        "audio/sound/ruyuelian/game_top.mp3",
+        "audio/sound/qixi/game_top.mp3",
+        "audio/sound/shiyuanduihai/game_top.mp3",
+        "audio/sound/sigongxiasheng/game_top.mp3",
+        "audio/sound/wangcilang/game_top.mp3",
+        "audio/sound/yizhilaikong/game_top.mp3",
+        "audio/sound/yuejianshan/game_top.mp3",
+        "audio/sound/yuesefu/game_top.mp3",
+        "audio/sound/zhaitengzhi/game_top.mp3"
+      ],
+      "to": "audio/game_top.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/ingame_baopai.mp3",
+        "audio/sound/ruyuelian/ingame_baopai.mp3",
+        "audio/sound/qixi/ingame_baopai.mp3",
+        "audio/sound/shiyuanduihai/ingame_baopai.mp3",
+        "audio/sound/sigongxiasheng/ingame_baopai.mp3",
+        "audio/sound/wangcilang/ingame_baopai.mp3",
+        "audio/sound/yizhilaikong/ingame_baopai.mp3",
+        "audio/sound/yuejianshan/ingame_baopai.mp3",
+        "audio/sound/yuesefu/ingame_baopai.mp3",
+        "audio/sound/zhaitengzhi/ingame_baopai.mp3"
+      ],
+      "to": "audio/ingame_baopai.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/ingame_beiman.mp3",
+        "audio/sound/ruyuelian/ingame_beiman.mp3",
+        "audio/sound/qixi/ingame_beiman.mp3",
+        "audio/sound/shiyuanduihai/ingame_beiman.mp3",
+        "audio/sound/sigongxiasheng/ingame_beiman.mp3",
+        "audio/sound/wangcilang/ingame_beiman.mp3",
+        "audio/sound/yizhilaikong/ingame_beiman.mp3",
+        "audio/sound/yuejianshan/ingame_beiman.mp3",
+        "audio/sound/yuesefu/ingame_beiman.mp3",
+        "audio/sound/zhaitengzhi/ingame_beiman.mp3"
+      ],
+      "to": "audio/ingame_beiman.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/ingame_lianda.mp3",
+        "audio/sound/ruyuelian/ingame_lianda.mp3",
+        "audio/sound/qixi/ingame_lianda.mp3",
+        "audio/sound/shiyuanduihai/ingame_lianda.mp3",
+        "audio/sound/sigongxiasheng/ingame_lianda.mp3",
+        "audio/sound/wangcilang/ingame_lianda.mp3",
+        "audio/sound/yizhilaikong/ingame_lianda.mp3",
+        "audio/sound/yuejianshan/ingame_lianda.mp3",
+        "audio/sound/yuesefu/ingame_lianda.mp3",
+        "audio/sound/zhaitengzhi/ingame_lianda.mp3"
+      ],
+      "to": "audio/ingame_lianda.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/ingame_remain10.mp3",
+        "audio/sound/ruyuelian/ingame_remain10.mp3",
+        "audio/sound/qixi/ingame_remain10.mp3",
+        "audio/sound/shiyuanduihai/ingame_remain10.mp3",
+        "audio/sound/sigongxiasheng/ingame_remain10.mp3",
+        "audio/sound/wangcilang/ingame_remain10.mp3",
+        "audio/sound/yizhilaikong/ingame_remain10.mp3",
+        "audio/sound/yuejianshan/ingame_remain10.mp3",
+        "audio/sound/yuesefu/ingame_remain10.mp3",
+        "audio/sound/zhaitengzhi/ingame_remain10.mp3"
+      ],
+      "to": "audio/ingame_remain10.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/ingame_yiman.mp3",
+        "audio/sound/ruyuelian/ingame_yiman.mp3",
+        "audio/sound/qixi/ingame_yiman.mp3",
+        "audio/sound/shiyuanduihai/ingame_yiman.mp3",
+        "audio/sound/sigongxiasheng/ingame_yiman.mp3",
+        "audio/sound/wangcilang/ingame_yiman.mp3",
+        "audio/sound/yizhilaikong/ingame_yiman.mp3",
+        "audio/sound/yuejianshan/ingame_yiman.mp3",
+        "audio/sound/yuesefu/ingame_yiman.mp3",
+        "audio/sound/zhaitengzhi/ingame_yiman.mp3"
+      ],
+      "to": "audio/ingame_yiman.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_gift.mp3",
+        "audio/sound/ruyuelian/lobby_gift.mp3",
+        "audio/sound/qixi/lobby_gift.mp3",
+        "audio/sound/shiyuanduihai/lobby_gift.mp3",
+        "audio/sound/sigongxiasheng/lobby_gift.mp3",
+        "audio/sound/wangcilang/lobby_gift.mp3",
+        "audio/sound/yizhilaikong/lobby_gift.mp3",
+        "audio/sound/yuejianshan/lobby_gift.mp3",
+        "audio/sound/yuesefu/lobby_gift.mp3",
+        "audio/sound/zhaitengzhi/lobby_gift.mp3"
+      ],
+      "to": "audio/lobby_gift.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_gift_favor.mp3",
+        "audio/sound/ruyuelian/lobby_gift_favor.mp3",
+        "audio/sound/qixi/lobby_gift_favor.mp3",
+        "audio/sound/shiyuanduihai/lobby_gift_favor.mp3",
+        "audio/sound/sigongxiasheng/lobby_gift_favor.mp3",
+        "audio/sound/wangcilang/lobby_gift_favor.mp3",
+        "audio/sound/yizhilaikong/lobby_gift_favor.mp3",
+        "audio/sound/yuejianshan/lobby_gift_favor.mp3",
+        "audio/sound/yuesefu/lobby_gift_favor.mp3",
+        "audio/sound/zhaitengzhi/lobby_gift_favor.mp3"
+      ],
+      "to": "audio/lobby_gift_favor.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_levelmax.mp3",
+        "audio/sound/ruyuelian/lobby_levelmax.mp3",
+        "audio/sound/qixi/lobby_levelmax.mp3",
+        "audio/sound/shiyuanduihai/lobby_levelmax.mp3",
+        "audio/sound/sigongxiasheng/lobby_levelmax.mp3",
+        "audio/sound/wangcilang/lobby_levelmax.mp3",
+        "audio/sound/yizhilaikong/lobby_levelmax.mp3",
+        "audio/sound/yuejianshan/lobby_levelmax.mp3",
+        "audio/sound/yuesefu/lobby_levelmax.mp3",
+        "audio/sound/zhaitengzhi/lobby_levelmax.mp3"
+      ],
+      "to": "audio/lobby_levelmax.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_levelup0.mp3",
+        "audio/sound/ruyuelian/lobby_levelup0.mp3",
+        "audio/sound/qixi/lobby_levelup0.mp3",
+        "audio/sound/shiyuanduihai/lobby_levelup0.mp3",
+        "audio/sound/sigongxiasheng/lobby_levelup0.mp3",
+        "audio/sound/wangcilang/lobby_levelup0.mp3",
+        "audio/sound/yizhilaikong/lobby_levelup0.mp3",
+        "audio/sound/yuejianshan/lobby_levelup0.mp3",
+        "audio/sound/yuesefu/lobby_levelup0.mp3",
+        "audio/sound/zhaitengzhi/lobby_levelup0.mp3"
+      ],
+      "to": "audio/lobby_levelup0.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_levelup1.mp3",
+        "audio/sound/ruyuelian/lobby_levelup1.mp3",
+        "audio/sound/qixi/lobby_levelup1.mp3",
+        "audio/sound/shiyuanduihai/lobby_levelup1.mp3",
+        "audio/sound/sigongxiasheng/lobby_levelup1.mp3",
+        "audio/sound/wangcilang/lobby_levelup1.mp3",
+        "audio/sound/yizhilaikong/lobby_levelup1.mp3",
+        "audio/sound/yuejianshan/lobby_levelup1.mp3",
+        "audio/sound/yuesefu/lobby_levelup1.mp3",
+        "audio/sound/zhaitengzhi/lobby_levelup1.mp3"
+      ],
+      "to": "audio/lobby_levelup1.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_levelup2.mp3",
+        "audio/sound/ruyuelian/lobby_levelup2.mp3",
+        "audio/sound/qixi/lobby_levelup2.mp3",
+        "audio/sound/shiyuanduihai/lobby_levelup2.mp3",
+        "audio/sound/sigongxiasheng/lobby_levelup2.mp3",
+        "audio/sound/wangcilang/lobby_levelup2.mp3",
+        "audio/sound/yizhilaikong/lobby_levelup2.mp3",
+        "audio/sound/yuejianshan/lobby_levelup2.mp3",
+        "audio/sound/yuesefu/lobby_levelup2.mp3",
+        "audio/sound/zhaitengzhi/lobby_levelup2.mp3"
+      ],
+      "to": "audio/lobby_levelup2.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_levelup3.mp3",
+        "audio/sound/ruyuelian/lobby_levelup3.mp3",
+        "audio/sound/qixi/lobby_levelup3.mp3",
+        "audio/sound/shiyuanduihai/lobby_levelup3.mp3",
+        "audio/sound/sigongxiasheng/lobby_levelup3.mp3",
+        "audio/sound/wangcilang/lobby_levelup3.mp3",
+        "audio/sound/yizhilaikong/lobby_levelup3.mp3",
+        "audio/sound/yuejianshan/lobby_levelup3.mp3",
+        "audio/sound/yuesefu/lobby_levelup3.mp3",
+        "audio/sound/zhaitengzhi/lobby_levelup3.mp3"
+      ],
+      "to": "audio/lobby_levelup3.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normal1.mp3",
+        "audio/sound/ruyuelian/lobby_normal1.mp3",
+        "audio/sound/qixi/lobby_normal1.mp3",
+        "audio/sound/shiyuanduihai/lobby_normal1.mp3",
+        "audio/sound/sigongxiasheng/lobby_normal1.mp3",
+        "audio/sound/wangcilang/lobby_normal1.mp3",
+        "audio/sound/yizhilaikong/lobby_normal1.mp3",
+        "audio/sound/yuejianshan/lobby_normal1.mp3",
+        "audio/sound/yuesefu/lobby_normal1.mp3",
+        "audio/sound/zhaitengzhi/lobby_normal1.mp3"
+      ],
+      "to": "audio/lobby_normal1.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normal2.mp3",
+        "audio/sound/ruyuelian/lobby_normal2.mp3",
+        "audio/sound/qixi/lobby_normal2.mp3",
+        "audio/sound/shiyuanduihai/lobby_normal2.mp3",
+        "audio/sound/sigongxiasheng/lobby_normal2.mp3",
+        "audio/sound/wangcilang/lobby_normal2.mp3",
+        "audio/sound/yizhilaikong/lobby_normal2.mp3",
+        "audio/sound/yuejianshan/lobby_normal2.mp3",
+        "audio/sound/yuesefu/lobby_normal2.mp3",
+        "audio/sound/zhaitengzhi/lobby_normal2.mp3"
+      ],
+      "to": "audio/lobby_normal2.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normal3.mp3",
+        "audio/sound/ruyuelian/lobby_normal3.mp3",
+        "audio/sound/qixi/lobby_normal3.mp3",
+        "audio/sound/shiyuanduihai/lobby_normal3.mp3",
+        "audio/sound/sigongxiasheng/lobby_normal3.mp3",
+        "audio/sound/wangcilang/lobby_normal3.mp3",
+        "audio/sound/yizhilaikong/lobby_normal3.mp3",
+        "audio/sound/yuejianshan/lobby_normal3.mp3",
+        "audio/sound/yuesefu/lobby_normal3.mp3",
+        "audio/sound/zhaitengzhi/lobby_normal3.mp3"
+      ],
+      "to": "audio/lobby_normal3.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normal4.mp3",
+        "audio/sound/ruyuelian/lobby_normal4.mp3",
+        "audio/sound/qixi/lobby_normal4.mp3",
+        "audio/sound/shiyuanduihai/lobby_normal4.mp3",
+        "audio/sound/sigongxiasheng/lobby_normal4.mp3",
+        "audio/sound/wangcilang/lobby_normal4.mp3",
+        "audio/sound/yizhilaikong/lobby_normal4.mp3",
+        "audio/sound/yuejianshan/lobby_normal4.mp3",
+        "audio/sound/yuesefu/lobby_normal4.mp3",
+        "audio/sound/zhaitengzhi/lobby_normal4.mp3"
+      ],
+      "to": "audio/lobby_normal4.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normal5.mp3",
+        "audio/sound/ruyuelian/lobby_normal5.mp3",
+        "audio/sound/qixi/lobby_normal5.mp3",
+        "audio/sound/shiyuanduihai/lobby_normal5.mp3",
+        "audio/sound/sigongxiasheng/lobby_normal5.mp3",
+        "audio/sound/wangcilang/lobby_normal5.mp3",
+        "audio/sound/yizhilaikong/lobby_normal5.mp3",
+        "audio/sound/yuejianshan/lobby_normal5.mp3",
+        "audio/sound/yuesefu/lobby_normal5.mp3",
+        "audio/sound/zhaitengzhi/lobby_normal5.mp3"
+      ],
+      "to": "audio/lobby_normal5.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normalmax1.mp3",
+        "audio/sound/ruyuelian/lobby_normalmax1.mp3",
+        "audio/sound/qixi/lobby_normalmax1.mp3",
+        "audio/sound/shiyuanduihai/lobby_normalmax1.mp3",
+        "audio/sound/sigongxiasheng/lobby_normalmax1.mp3",
+        "audio/sound/wangcilang/lobby_normalmax1.mp3",
+        "audio/sound/yizhilaikong/lobby_normalmax1.mp3",
+        "audio/sound/yuejianshan/lobby_normalmax1.mp3",
+        "audio/sound/yuesefu/lobby_normalmax1.mp3",
+        "audio/sound/zhaitengzhi/lobby_normalmax1.mp3"
+      ],
+      "to": "audio/lobby_normalmax1.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normalmax2.mp3",
+        "audio/sound/ruyuelian/lobby_normalmax2.mp3",
+        "audio/sound/qixi/lobby_normalmax2.mp3",
+        "audio/sound/shiyuanduihai/lobby_normalmax2.mp3",
+        "audio/sound/sigongxiasheng/lobby_normalmax2.mp3",
+        "audio/sound/wangcilang/lobby_normalmax2.mp3",
+        "audio/sound/yizhilaikong/lobby_normalmax2.mp3",
+        "audio/sound/yuejianshan/lobby_normalmax2.mp3",
+        "audio/sound/yuesefu/lobby_normalmax2.mp3",
+        "audio/sound/zhaitengzhi/lobby_normalmax2.mp3"
+      ],
+      "to": "audio/lobby_normalmax2.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_normalmax3.mp3",
+        "audio/sound/ruyuelian/lobby_normalmax3.mp3",
+        "audio/sound/qixi/lobby_normalmax3.mp3",
+        "audio/sound/shiyuanduihai/lobby_normalmax3.mp3",
+        "audio/sound/sigongxiasheng/lobby_normalmax3.mp3",
+        "audio/sound/wangcilang/lobby_normalmax3.mp3",
+        "audio/sound/yizhilaikong/lobby_normalmax3.mp3",
+        "audio/sound/yuejianshan/lobby_normalmax3.mp3",
+        "audio/sound/yuesefu/lobby_normalmax3.mp3",
+        "audio/sound/zhaitengzhi/lobby_normalmax3.mp3"
+      ],
+      "to": "audio/lobby_normalmax3.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_playerlogin.mp3",
+        "audio/sound/ruyuelian/lobby_playerlogin.mp3",
+        "audio/sound/qixi/lobby_playerlogin.mp3",
+        "audio/sound/shiyuanduihai/lobby_playerlogin.mp3",
+        "audio/sound/sigongxiasheng/lobby_playerlogin.mp3",
+        "audio/sound/wangcilang/lobby_playerlogin.mp3",
+        "audio/sound/yizhilaikong/lobby_playerlogin.mp3",
+        "audio/sound/yuejianshan/lobby_playerlogin.mp3",
+        "audio/sound/yuesefu/lobby_playerlogin.mp3",
+        "audio/sound/zhaitengzhi/lobby_playerlogin.mp3"
+      ],
+      "to": "audio/lobby_playerlogin.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_playerlogin_max.mp3",
+        "audio/sound/ruyuelian/lobby_playerlogin_max.mp3",
+        "audio/sound/qixi/lobby_playerlogin_max.mp3",
+        "audio/sound/shiyuanduihai/lobby_playerlogin_max.mp3",
+        "audio/sound/sigongxiasheng/lobby_playerlogin_max.mp3",
+        "audio/sound/wangcilang/lobby_playerlogin_max.mp3",
+        "audio/sound/yizhilaikong/lobby_playerlogin_max.mp3",
+        "audio/sound/yuejianshan/lobby_playerlogin_max.mp3",
+        "audio/sound/yuesefu/lobby_playerlogin_max.mp3",
+        "audio/sound/zhaitengzhi/lobby_playerlogin_max.mp3"
+      ],
+      "to": "audio/lobby_playerlogin_max.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_qiyue.mp3",
+        "audio/sound/ruyuelian/lobby_qiyue.mp3",
+        "audio/sound/qixi/lobby_qiyue.mp3",
+        "audio/sound/shiyuanduihai/lobby_qiyue.mp3",
+        "audio/sound/sigongxiasheng/lobby_qiyue.mp3",
+        "audio/sound/wangcilang/lobby_qiyue.mp3",
+        "audio/sound/yizhilaikong/lobby_qiyue.mp3",
+        "audio/sound/yuejianshan/lobby_qiyue.mp3",
+        "audio/sound/yuesefu/lobby_qiyue.mp3",
+        "audio/sound/zhaitengzhi/lobby_qiyue.mp3"
+      ],
+      "to": "audio/lobby_qiyue.mp3",
+      "all-servers": true
+    },
+    {
+      "from": [
+        "audio/sound/aiyin/lobby_selfintro.mp3",
+        "audio/sound/ruyuelian/lobby_selfintro.mp3",
+        "audio/sound/qixi/lobby_selfintro.mp3",
+        "audio/sound/shiyuanduihai/lobby_selfintro.mp3",
+        "audio/sound/sigongxiasheng/lobby_selfintro.mp3",
+        "audio/sound/wangcilang/lobby_selfintro.mp3",
+        "audio/sound/yizhilaikong/lobby_selfintro.mp3",
+        "audio/sound/yuejianshan/lobby_selfintro.mp3",
+        "audio/sound/yuesefu/lobby_selfintro.mp3",
+        "audio/sound/zhaitengzhi/lobby_selfintro.mp3"
+      ],
+      "to": "audio/lobby_selfintro.mp3",
+      "all-servers": true
+    }
+  ]
+}

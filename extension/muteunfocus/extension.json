@@ -1,6 +1,6 @@
 {
   "id": "muteunfocus",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "窗口失去焦点后自动静音",
   "author": "anon",
   "description": "论如何在上班的时候不让人知道自己在断幺九。",

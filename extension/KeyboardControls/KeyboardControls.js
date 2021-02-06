@@ -1,3 +1,4 @@
+// 0.3
 // Adds in-game keyboard controls
 
 // v3
@@ -27,18 +28,18 @@ var HOTKEYS = {
     'left': 37, // left arrow
     'right': 39, // right arrow
     'discard': 13, // enter
-    'tsumogiri': 192, // ·
-    'skip': 191, // /
-    'pon': 65, // a
-    'chi': 83, // s
-    'kan': 68, // d
-    'win': 40, // ArrowUp
-    'riichi': 32, // space
-    'pei': 38, // ArrowDown
+    'tsumogiri': 84, // t
+    'skip': 83, // s
+    'pon': 80, // p
+    'chi': 67, // c
+    'kan': 75, // k
+    'win': 87, // w
+    'riichi': 82, // r
+    'pei': 78, // n
     'nineterminalsabort': 188, // ,
-    'autowin': 77, // m
-    'nocall': 78, // n
-    'autogiri': 66, // b
+    'autowin': 72, // h
+    'nocall': 70, // f
+    'autogiri': 68, // d
 }
 // NUMPAD KEYS:        7    8    9    4    5    6   1   2   3   0    .    +
 var EMOJI_HOTKEYS = [103, 104, 105, 100, 101, 102, 97, 98, 99, 96, 110, 107];
