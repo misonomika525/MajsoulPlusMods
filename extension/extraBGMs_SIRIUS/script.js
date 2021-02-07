@@ -28,14 +28,8 @@ if (!!view && !!uiscript) {
   // 不同 UI 注入不同音乐
   const lobbyMusic = musicDir + 'lobby.mp3'
   const executeUIs = [
-	['UI_Lobby', 'onEnable', 'lobby.mp3'],
-	['UI_Shop', 'show', 'intermission.mp3'],
-	['UI_Bag', 'show', 'intermission.mp3'],
-	['UI_Friend', 'show', 'intermission.mp3'],
-    ['UI_Sushe', 'show_page_select', 'intermission.mp3'],
-    ['UI_Treasure', 'refresh_show', 'intermission.mp3'],
-    ['UI_Ob', 'show', 'intermission.mp3'],
-    ['UI_PaiPu', 'show', 'intermission.mp3']
+	['UI_Remind', 'onCreate', 'intermission.mp3'],
+	['UI_Lobby', 'onEnable', 'lobby.mp3']
 	]
   executeUIs.forEach(([scriptKey, funName, fileName]) => {
     uiscript[scriptKey].prototype[funName] = (() => {
