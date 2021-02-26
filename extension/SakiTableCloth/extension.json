@@ -1,0 +1,21 @@
+{
+	"id":"SakiTableCloth",
+	"version":"1.0.0",
+	"name":"桌布-赛间小憩",
+	"author":"Tachibana",
+	"description":"没有什么装扮是强行提取资源然后替换默认所无法解决的。",
+	"preview":"assets/preview.jpg",
+	"resourcepack":[
+		{"from":"scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg",
+		"to":"Table_Dif.jpg",
+		"all-servers":true},
+		{"from":"myres2/tablecloth/tablecloth_default/preview.jpg",
+		"to":"preview.jpg",
+		"all-servers":true},
+		{"from":"extendRes/items/tablecloth_navy.jpg",
+		"to":"preview.jpg",
+		"all-servers":true},
+		{"from":"scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.lmat",
+		"to":"Table_Dif.lmat",
+		"all-servers":true}
+	]}
