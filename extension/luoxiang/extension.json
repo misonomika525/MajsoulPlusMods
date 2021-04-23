@@ -1,6 +1,6 @@
 {
   "id": "luoxiang",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "name": "女仆 CV.罗翔",
   "author": ["Tachibana"],
   "description": "魂 天 法 考",
@@ -119,6 +119,19 @@
     "audio/sound/jiutiao/lobby_playerlogin.mp3",
     "audio/sound/jiutiao/lobby_playerlogin_max.mp3",
     "audio/sound/jiutiao/lobby_qiyue.mp3",
+    "audio/sound/jiutiao/extra/scfan_daiyaojiu.mp3",
+    "audio/sound/jiutiao/extra/scfan_gen.mp3",
+    "audio/sound/jiutiao/extra/scfan_jiangdui.mp3",
+    "audio/sound/jiutiao/extra/scfan_jingoudiao.mp3",
+    "audio/sound/jiutiao/extra/scfan_lingshangfangchong.mp3",
+    "audio/sound/jiutiao/extra/scfan_longqidui.mp3",
+    "audio/sound/jiutiao/extra/scfan_qingdui.mp3",
+    "audio/sound/jiutiao/extra/scfan_qingjindoudiao.mp3",
+    "audio/sound/jiutiao/extra/scfan_qinglongqidui.mp3",
+    "audio/sound/jiutiao/extra/scfan_qingqidui.mp3",
+    "audio/sound/jiutiao/extra/scfan_qingshibaluohan.mp3",
+    "audio/sound/jiutiao/extra/scfan_qingyaojiu.mp3",
+    "audio/sound/jiutiao/extra/scfan_shibaluohan.mp3",
     "audio/sound/jiutiao/lobby_selfintro.mp3"
 	],
   "entry": "script.js"
