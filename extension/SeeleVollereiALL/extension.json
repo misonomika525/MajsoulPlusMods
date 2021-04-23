@@ -3,10 +3,9 @@
   "version": "2.2.2",
   "name": "希儿 Mod",
   "author": ["Yuri","Tachibana"],
-  "description": "一姬改希儿（需事先安装替换位图字体 Mod）\n原作者：Yuri\n修复及补充：Tachibana",
+  "description": "一姬改希儿\n原作者：Yuri\n修复及补充：Tachibana",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
 	{
