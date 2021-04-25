@@ -1,0 +1,33 @@
+{
+  "id": "extraBGMs_ripples",
+  "version": "1.0.0",
+  "name": "IIDX 13 DistorteD",
+  "author": "Tachibana",
+  "description": "jubeat ripples BGM",
+  "dir": "assets",
+  "preview": "preview.jpg",
+  "resourcepack": [
+    "audio/music/lobby.mp3",
+    "audio/music/title.mp3",
+    "audio/my_music/0.mp3",
+    "audio/my_music/1.mp3",
+    "audio/my_music/2.mp3",
+    "audio/my_music/3.mp3",
+    "audio/my_music/4.mp3",
+    "audio/my_music/5.mp3",
+    "audio/my_music/6.mp3",
+    "audio/my_music/7.mp3",
+    "audio/my_music/e1.mp3",
+    "audio/my_music/e2.mp3",
+    "audio/my_music/e3.mp3",
+    "audio/my_music/h1.mp3",
+    "audio/my_music/h2.mp3",
+    "audio/my_music/h3.mp3",
+    "audio/my_music/p.mp3",
+    "audio/my_music/r1.mp3",
+    "audio/my_music/r2.mp3",
+    "audio/my_music/r3.mp3"
+  ],
+  "dependencies": {},
+  "entry": "script.js"
+}
