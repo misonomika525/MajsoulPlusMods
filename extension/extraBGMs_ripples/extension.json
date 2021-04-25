@@ -19,6 +19,8 @@
 	"audio/audio_mj/rank_change.mp3",
 	"audio/audio_mj/score_change.mp3",
 	"audio/audio_mj/score_appear.mp3",
+    "audio/audio_mj/winlose.mp3",
+    "audio/audio_lobby/matchcomplete.mp3",
     "audio/my_music/0.mp3",
     "audio/my_music/1.mp3",
     "audio/my_music/2.mp3",
