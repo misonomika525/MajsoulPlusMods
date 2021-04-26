@@ -1,0 +1,9 @@
+{
+  "id": "decensor",
+  "version": "1.0.0",
+  "name": "解除敏感词屏蔽",
+  "author": "anon",
+  "description": "这不比博人传燃？\n（至少目前于国服无用）",
+  "preview": "1.png",
+  "entry": ["decensor.js"]
+}
