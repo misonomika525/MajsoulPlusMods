@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "name": "透明白+不透明黑 点数显示板",
   "author": ["元始天尊", "AnriMachishiro", "小魔"],
-  "description": "我觉得我做不出役满绝对是点数显示板的问题。",
+  "description": "我觉得我做不出役满绝对是点数显示板的问题。\n暂未适配新版",
   "preview": "assets/scene/Assets/Resource/table/tablemid/bg.png",
   
   "dependencies": {
