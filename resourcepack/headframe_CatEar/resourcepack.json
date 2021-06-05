@@ -1,7 +1,7 @@
 {
   "id": "headframe_CatEar",
-  "version": "1.0.0",
-  "name": "头像框-猫耳团长（国服/日服）",
+  "version": "1.1.0",
+  "name": "头像框-猫耳团长",
   "author": "Tachibana",
   "description": "没有什么装扮是强行提取资源然后替换默认所无法解决的。",
   "preview": "preview.jpg",
@@ -11,21 +11,20 @@
   },
   "replace": [
     {
-      "from": "extendRes/head_frame/default.png",
+      "from": [
+		"extendRes/head_frame/default.png",
+		"jp/extendRes/head_frame/default.png",
+		"en/extendRes/head_frame/default.png"
+		],
       "to": "default.png"
     },
     {
-      "from": "jp/extendRes/head_frame/default.png",
-      "to": "default.png"
-    },
-    {
-      "from": "extendRes/items/headframe_default.jpg",
-      "to": "headframe_default.jpg"
-    },
-    {
-      "from": "jp/extendRes/items/headframe_default.jpg",
+      "from": [
+		"extendRes/items/headframe_default.jpg",
+		"jp/extendRes/items/headframe_default.jpg",
+		"en/extendRes/items/headframe_default.jpg"
+		],
       "to": "headframe_default.jpg"
     }
   ]
 }
-

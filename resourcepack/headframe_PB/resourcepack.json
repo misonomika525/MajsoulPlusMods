@@ -1,6 +1,6 @@
 {
   "id": "headframe_PB",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "头像框——蓝色传送门",
   "author": "大黄喵",
   "description": "将默认头像框改为Steam蓝色传送门头像框。",
@@ -11,13 +11,20 @@
   },
   "replace": [
     {
-      "from": "extendRes/head_frame/default.png",
+      "from": [
+		"extendRes/head_frame/default.png",
+		"jp/extendRes/head_frame/default.png",
+		"en/extendRes/head_frame/default.png"
+		],
       "to": "default.png"
     },
     {
-      "from": "extendRes/items/headframe_default.jpg",
+      "from": [
+		"extendRes/items/headframe_default.jpg",
+		"jp/extendRes/items/headframe_default.jpg",
+		"en/extendRes/items/headframe_default.jpg"
+		],
       "to": "headframe_default.jpg"
     }
   ]
 }
-
