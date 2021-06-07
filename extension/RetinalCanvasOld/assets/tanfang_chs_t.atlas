@@ -1,0 +1,280 @@
+{
+    "frames": {
+        "bbg.jpg": {
+            "frame": {
+                "h": 10,
+                "idx": 5,
+                "w": 10,
+                "x": 0,
+                "y": 326
+            },
+            "sourceSize": {
+                "h": 10,
+                "w": 10
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bg_light_0.png": {
+            "frame": {
+                "h": 600,
+                "idx": 3,
+                "w": 600,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 600,
+                "w": 600
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bg_result.png": {
+            "frame": {
+                "h": 537,
+                "idx": 1,
+                "w": 800,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 537,
+                "w": 800
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy.png": {
+            "frame": {
+                "h": 159,
+                "idx": 5,
+                "w": 50,
+                "x": 0,
+                "y": 166
+            },
+            "sourceSize": {
+                "h": 159,
+                "w": 67
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 0
+            }
+        },
+        "character_light.png": {
+            "frame": {
+                "h": 608,
+                "idx": 4,
+                "w": 274,
+                "x": 622,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 608,
+                "w": 274
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "character_sakura.png": {
+            "frame": {
+                "h": 309,
+                "idx": 4,
+                "w": 111,
+                "x": 905,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 309,
+                "w": 111
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "front_scene.png": {
+            "frame": {
+                "h": 576,
+                "idx": 0,
+                "w": 1333,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 576,
+                "w": 1024
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "girl.png": {
+            "frame": {
+                "h": 138,
+                "idx": 5,
+                "w": 67,
+                "x": 51,
+                "y": 166
+            },
+            "sourceSize": {
+                "h": 159,
+                "w": 67
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 20
+            }
+        },
+        "gold_bound.png": {
+            "frame": {
+                "h": 175,
+                "idx": 5,
+                "w": 174,
+                "x": 166,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 175,
+                "w": 174
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "item_outline.png": {
+            "frame": {
+                "h": 299,
+                "idx": 4,
+                "w": 299,
+                "x": 0,
+                "y": 609
+            },
+            "sourceSize": {
+                "h": 299,
+                "w": 299
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "left_tree.png": {
+            "frame": {
+                "h": 540,
+                "idx": 2,
+                "w": 912,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 540,
+                "w": 712
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "pink_bound.png": {
+            "frame": {
+                "h": 165,
+                "idx": 5,
+                "w": 165,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 175,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "right_tree.png": {
+            "frame": {
+                "h": 540,
+                "idx": 4,
+                "w": 803,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 540,
+                "w": 621
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "scene_light.png": {
+            "frame": {
+                "h": 228,
+                "idx": 4,
+                "w": 256,
+                "x": 648,
+                "y": 609
+            },
+            "sourceSize": {
+                "h": 228,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sky.png": {
+            "frame": {
+                "h": 256,
+                "idx": 4,
+                "w": 347,
+                "x": 300,
+                "y": 609
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 347
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "title_result.png": {
+            "frame": {
+                "h": 130,
+                "idx": 4,
+                "w": 592,
+                "x": 300,
+                "y": 866
+            },
+            "sourceSize": {
+                "h": 131,
+                "w": 593
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "tanfang.png,tanfang1.png,tanfang2.png,tanfang3.png,tanfang4.png,tanfang5.png",
+        "prefix": "chs_t/tanfang/"
+    }
+}
