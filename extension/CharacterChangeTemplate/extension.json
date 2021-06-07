@@ -1,0 +1,8 @@
+{
+  "id": "CharacterChangeTemplate",
+  "name": "就是看不见-模板",
+  "author": ["Handle","哈神流风","Tachibana"],
+  "description": "○○？不认识的孩子呢。\n请参阅script.js进行修改",
+  "preview": "3.png",
+  "entry": "script.js"  
+}
