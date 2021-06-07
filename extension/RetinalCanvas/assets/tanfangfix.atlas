@@ -1,0 +1,59 @@
+{
+    "frames": {
+        "front_scene.png": {
+            "frame": {
+                "h": 576,
+                "idx": 0,
+                "w": 1333,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 576,
+                "w": 1024
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "left_tree.png": {
+            "frame": {
+                "h": 576,
+                "idx": 1,
+                "w": 912,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 540,
+                "w": 712
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "right_tree.png": {
+            "frame": {
+                "h": 576,
+                "idx": 2,
+                "w": 803,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 540,
+                "w": 621
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "tanfang.png,left_tree.png,right_tree.png",
+        "prefix": "tanfang/"
+    }
+}

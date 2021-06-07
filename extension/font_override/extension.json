@@ -1,0 +1,14 @@
+{
+  "id": "font_override",
+  "version": "1.0.2",
+  "name": "替换位图字体mod",
+  "author": ["8q","bin"],
+  "description": "将位图字体替换为完整字体，防止魔改后缺字\n190820:bin修复\n210522:bin再次修复",
+  "preview": "preview.jpg",
+  "entry": "font.js",
+  "resourcepack": [
+    "fengyu.ttf",
+    "hanyi.ttf",
+    "haolong.otf"
+  ]
+}

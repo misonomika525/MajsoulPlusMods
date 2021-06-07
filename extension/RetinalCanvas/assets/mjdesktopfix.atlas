@@ -1,0 +1,93 @@
+{
+    "frames": {
+        "start_left.png": {
+            "frame": {
+                "h": 416,
+                "idx": 0,
+                "w": 666,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 208,
+                "w": 333
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "start_right.png": {
+            "frame": {
+                "h": 382,
+                "idx": 1,
+                "w": 609,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 191,
+                "w": 305
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bg_jiesuan.png": {
+            "frame": {
+                "h": 1560,
+                "idx": 2,
+                "w": 2884,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 780,
+                "w": 1442
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bg_jiesuan_mask.png": {
+            "frame": {
+                "h": 936,
+                "idx": 3,
+                "w": 1662,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 468,
+                "w": 831
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bg_nickname.png": {
+            "frame": {
+                "h": 83,
+                "idx": 4,
+                "w": 396,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 83,
+                "w": 396
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "start_left.png,start_right.png,bg_jiesuan.png,bg_jiesuan_mask.png,bg_nickname.png",
+        "prefix": "myres/mjdesktop/"
+    }
+}

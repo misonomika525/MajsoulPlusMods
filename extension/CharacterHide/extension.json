@@ -1,0 +1,9 @@
+{
+	"id": "CharacterHide",
+	"version": "1.0.1",
+	"name": "完全隐藏特定角色",
+	"author": "88826",
+	"description": "千织：在魂天神社，千织大人说看不见就是看不见！\n（默认设置：一姬、美树、妄→千织）",
+	"preview": "888.png",
+	"entry": "scripts/script.js"
+}

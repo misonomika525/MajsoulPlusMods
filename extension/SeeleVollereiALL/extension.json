@@ -1,11 +1,12 @@
 {
   "id": "SeeleVollereiALL",
-  "version": "2.2.2",
+  "version": "2.2.4",
   "name": "希儿 Mod",
   "author": ["Yuri","Tachibana"],
   "description": "一姬改希儿\n原作者：Yuri\n修复及补充：Tachibana",
   "preview": "preview.jpg",
   "dependencies": {
+	  "font_override": "^1.0.0"
   },
   "resourcepack": [
 	{
