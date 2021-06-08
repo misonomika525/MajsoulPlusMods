@@ -6,7 +6,7 @@
   "description": "一姬改希儿\n原作者：Yuri\n修复及补充：Tachibana",
   "preview": "preview.jpg",
   "dependencies": {
-	  "font_override": "^1.0.0"
+	  "font_override": "^1.0.2"
   },
   "resourcepack": [
 	{
