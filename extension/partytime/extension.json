@@ -1,0 +1,9 @@
+{
+  "id": "partytime",
+  "version": "0.9.0",
+  "name": "Ctrl+C复制观战链接",
+  "author": "Nyagger Squad",
+  "description": "迷迭迷迭福姬桑，tetoki（手被打断）\n（对方如要通过链接观战，也需要启用此插件）",
+  "preview": "preview.png",
+  "entry": "script.js"
+}
