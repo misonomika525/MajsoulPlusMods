@@ -1,10 +1,13 @@
 {
   "id": "luoxiang",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "name": "女仆 CV.罗翔",
   "author": ["Tachibana"],
   "description": "魂 天 法 考",
   "preview": "preview.jpg",
+  "dependencies": {
+	  "font_override": "^1.0.2"
+	},
   "resourcepack": [
     "audio/sound/jiutiao/act_babei.mp3",
     "audio/sound/jiutiao/act_chi.mp3",
