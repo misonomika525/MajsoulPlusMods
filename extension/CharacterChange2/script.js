@@ -59,9 +59,9 @@ if (game) {
 			  /*检测是否为妄*/
 			x = player_data.avatar_id - 400200
 			z = 4
-			//if (x>4) {
-				//x = 4
-			//}
+			if (x>4) {
+				x = 4
+			}
 			y = x + z*100 + 400000
             /*//player_data.avatar_id = 403801 //福姬*/
 			player_data.avatar_id = y
