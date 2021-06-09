@@ -57,21 +57,29 @@ if (game) {
         if (Array.isArray(player_datas)) {
           player_datas.forEach(player_data => {
 			  if(player_data.avatar_id == 400101||player_data.avatar_id == 400102||player_data.avatar_id == 400103||player_data.avatar_id == 400104||player_data.avatar_id == 400105) { 
-			  /*↑填写要替换的角色的所有皮肤（只需改动中间二位即可）*/
-			player_data.avatar_id = 401401
-            /*//↑填写覆盖后显示的角色头像，3-4位为角色编号，5-6位为皮肤编号。角色编号可参考表情资源文件夹的后二位编号。 //福姬*/
+			  /*↑▲：填写要替换的角色的所有皮肤（仅一个角色的场合只需改动中间二位的角色编号（表情资源文件夹编号后二位）即可）*/
+			x = player_data.avatar_id - 400200
+			/*↑把▲处的第一个数字末位改成0后填写到此处（「player_data.avatar_id - 」后）*/
+			z = 4
+			/*↑△：填写替换后的角色编号（表情资源文件夹编号后二位）*/
+			//if (x>4) {
+				//x = 4
+			//}
+			/*↑若要替换的角色的皮肤总数大于替换后的角色，请将上面三行前的「//」删除。*/
+			/*「x>」后和「x=」后这两处，填写△角色的皮肤（包括默认和契约后）总数。*/
+			/*如：凉宫杏树现有2套皮肤，一姬为4套。则将上面三行前的「//」删除后把对应的数字改成2。*/
+			/*注意：若要替换的角色的皮肤总数等于或大于替换后的角色，则此处的「//」无需删除。*/
+			y = x + z*100 + 400000
+			player_data.avatar_id = y
 			player_data.avatar_frame = 0
-			/*//头像框，0为默认头像框*/
             const character = player_data.character
             if (character.charid) {
               const views = character.views
-              character.charid = 200014
-			  /*//↑覆盖后的角色编号，可参考表情资源文件夹的编号方式*/
+              character.charid = z + 200000
               character.extra_emoji = [10, 11, 12, 13]
               character.is_upgraded = true
               character.level = 5
-              character.skin = 401401
-			  /*↑填写第60行处的数字代码内容*/
+              character.skin = y
                character.views = [
                  {
                    item_id: 307006,
