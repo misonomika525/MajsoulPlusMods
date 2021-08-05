@@ -1,6 +1,8 @@
 # MajsoulPlusMods
 自用[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)用Mod整理（仅保留当前最新版本上仍然可用内容）
 
+考虑到近期情况，请在确认确实不会出差错的情况下使用本处的内容。不定期会对可能导致问题的内容/实质无用的内容作删除处理。
+
 ### 分流
 https://code.mycard.moe/komeijisatori/MajsoulPlusMods
 
