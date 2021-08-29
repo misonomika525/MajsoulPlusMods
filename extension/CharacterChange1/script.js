@@ -55,7 +55,7 @@ if (game) {
         console.log(args)
         if (Array.isArray(player_datas)) {
           player_datas.forEach(player_data => {
-			  if(player_data.avatar_id == 400101||player_data.avatar_id == 400102||player_data.avatar_id == 400103||player_data.avatar_id == 400104||player_data.avatar_id == 400105) { 
+			  if(player_data.avatar_id == 400101||player_data.avatar_id == 400102||player_data.avatar_id == 400103||player_data.avatar_id == 400104||player_data.avatar_id == 400105||player_data.avatar_id == 400106) { 
 			  /*检测是否为妄*/
 			x = player_data.avatar_id - 400100
 			z = 8
