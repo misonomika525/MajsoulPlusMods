@@ -68,13 +68,11 @@ if (game) {
             const character = player_data.character
             if (character.charid) {
               const views = character.views
-			  /*//character.charid = 200038*/
-              character.charid = 200001
+              character.charid = z + 200000
               character.extra_emoji = [10, 11, 12, 13]
               character.is_upgraded = true
               character.level = 5
-			  /*character.skin = 403801*/
-              character.skin = 400101
+              character.skin = y
                character.views = [
                  {
                    item_id: 307006,
