@@ -1,0 +1,31 @@
+{
+  "id": "headframe_mltdextra",
+  "version": "2.0.0",
+  "name": "头像框——MLTD SSR EXTRA",
+  "author": ["某昨P","Tachibana"],
+  "description": "この歌声がーー",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+      "from": [
+		"extendRes/head_frame/default.png",
+		"jp/extendRes/head_frame/default.png",
+		"en/extendRes/head_frame/default.png"
+		],
+      "to": "default.png"
+    },
+    {
+      "from": [
+		"extendRes/items/headframe_default.jpg",
+		"jp/extendRes/items/headframe_default.jpg",
+		"en/extendRes/items/headframe_default.jpg"
+		],
+      "to": "headframe_default.jpg"
+    }
+  ]
+}
+
