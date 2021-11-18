@@ -1,9 +1,0 @@
-{
-  "id": "randomwwyd",  
-  "version": "1.0.0",    
-  "name": "按Ctrl全局随机变换",
-  "author": "Anon",      
-  "description": "截图有奖再来一张", 
-  "preview": "preview.png",   
-  "entry": "script.js"        
-}
