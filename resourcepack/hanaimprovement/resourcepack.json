@@ -1,0 +1,18 @@
+{
+	"id": "hanaimprovement",
+	"version": "2.0.0",
+	"name": "摘了眼镜的二之宫花",
+	"author": "JK Anon",
+	"description": "封印解除（杰哥并感）\n花哥……这……这是什么啊？\n【摘眼镜仅限默认服装】",
+	"preview": "preview.png",
+	"dependencies": {
+	  "majsoul_plus": "^2.0.0"
+	},
+	"replace":[
+		"extendRes/charactor/erzhigong/full.png",
+		"extendRes/charactor/erzhigong/bighead.png",
+		"extendRes/charactor/erzhigong/smallhead.png",
+		"extendRes/charactor/erzhigong/half.png",
+		"extendRes/charactor/erzhigong/waitingroom.png"
+	]
+}

@@ -18,7 +18,7 @@
 // If CONFIRM_DISCARDS is false tile hotkeys will discard immediately.
 var CONFIRM_DISCARDS = false;
 // show the hotkeys underneath the tiles.
-var SHOW_TILE_HOTKEYS = true;
+var SHOW_TILE_HOTKEYS = false;
 //                   1   2   3   4   5   6   7   8   9   0    -    =  bksp |
 var TILE_HOTKEYS = [49, 50, 51, 52, 53, 54, 55, 56, 57, 48, 189, 187, 8, 220];
 // some may not display correctly, override below:
@@ -29,17 +29,17 @@ var HOTKEYS = {
     'right': 39, // right arrow
     'discard': 13, // enter
     'tsumogiri': 84, // t
-    'skip': 83, // s
-    'pon': 80, // p
-    'chi': 67, // c
-    'kan': 75, // k
-    'win': 87, // w
-    'riichi': 82, // r
-    'pei': 78, // n
-    'nineterminalsabort': 188, // ,
-    'autowin': 72, // h
-    'nocall': 70, // f
-    'autogiri': 68, // d
+    'skip': 191, // s
+    'pon': 65, // p
+    'chi': 83, // c
+    'kan': 68, // k
+    'win': 40, // w
+    'riichi': 32, // r
+    'pei': 38, // n
+    'nineterminalsabort': 81, // ,
+    'autowin': 90, // h
+    'nocall': 88, // f
+    'autogiri': 69, // d
 }
 // NUMPAD KEYS:        7    8    9    4    5    6   1   2   3   0    .    +
 var EMOJI_HOTKEYS = [103, 104, 105, 100, 101, 102, 97, 98, 99, 96, 110, 107];
